@@ -1,0 +1,19 @@
+asciidoc: reading: /work/tools/asciidoc/asciidoc-8.6.5/asciidoc.conf
+asciidoc: reading: /work/tools/asciidoc/config/orm.docbook.conf
+asciidoc: reading: /work/tools/asciidoc/asciidoc-8.6.5/asciidoc.conf
+asciidoc: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/book.asc
+asciidoc: reading: /work/tools/asciidoc/asciidoc-8.6.5/docbook45.conf
+asciidoc: reading: /work/tools/asciidoc/asciidoc-8.6.5/filters/music/music-filter.conf
+asciidoc: reading: /work/tools/asciidoc/asciidoc-8.6.5/filters/source/source-highlight-filter.conf
+asciidoc: reading: /work/tools/asciidoc/asciidoc-8.6.5/filters/code/code-filter.conf
+asciidoc: reading: /work/tools/asciidoc/asciidoc-8.6.5/filters/graphviz/graphviz-filter.conf
+asciidoc: reading: /work/tools/asciidoc/asciidoc-8.6.5/filters/latex/latex-filter.conf
+asciidoc: reading: /work/tools/asciidoc/asciidoc-8.6.5/lang-en.conf
+asciidoc: reading: /work/tools/asciidoc/config/orm.docbook.conf
+asciidoc: book.asc: line 2: macro redefinition: 
+asciidoc: book.asc: line 2: macro redefinition: #
+asciidoc: writing: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/book.dcpsgen.xml
+asciidoc: book.asc: line 2: evaluating: {include:/work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/book-docinfo.xml}
+asciidoc: book.asc: line 8: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/preface.asc
+asciidoc: book.asc: line 10: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/chapter_skeleton.asc
+Wed Jul  6 11:29:50 EDT 2011
