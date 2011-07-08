@@ -13,7 +13,943 @@
     <firstname>Editors of Safari Books Online</firstname>
   </author>
 </bookinfo>
-<preface>
-<title></title>
-</preface>
+<chapter id="_javascript_introduction">
+<title>JavaScript Introduction</title>
+<simpara>After the browser became a worldwide instrument to access the World Wide Web, there was a need for a language that could be interpreted by the web browser, and which could make pages interactive. This need was fulfilled by a new programming language written by Brendan Eich, called JavaScript. Later officially named as ECMAScript, JavaScript is a powerful loosely typed and prototype-based dynamic scripting language. It&#8217;s at the same time an object-oriented programming language and a functional language, as functions are first-class objects. JavaScript was initially adopted just to make pages interactive, but it became a popular programming language with the rise of DOM Scripting and AJAX. Dealing with the DOM (model representing a web page) and with AJAX had the biggest challenge around the different browsers implementations. To cope with this issue, developers started implementing JavaScript libraries and frameworks and the popularity of JavaScript increased incredibly.</simpara>
+<simpara>Nowadays desktop and mobile web applications contain a fair amount of scripts so that writing performing and good JavaScript code is vital for the success of a web application. JavaScript is also now used on the server and not only client-side.</simpara>
+<simpara>We have chosen a selection of the most useful books for JavaScript development. You can learn how to start programming with JavaScript and you can dig into most advanced topics such as performance, design patterns and best practices. You can find reference books on the most popular JavaScript libraries such as jQuery, YUI, Mootols, Dojo and ExtJS and how to enhance the user experience through DOM Scripting and AJAX. If you are writing mobile apps, you will want to read how to create applications with web technologies</simpara>
+</chapter>
+<chapter id="_beginning_javascript">
+<title>Beginning JavaScript</title>
+<sect1 id="_eloquent_javascript">
+<title>Eloquent JavaScript</title>
+<simpara><emphasis>No Starch Press</emphasis>
+<emphasis>By Marijn Haverbeke</emphasis>
+<emphasis>ISBN: 9781593272821</emphasis>
+<emphasis>January 2011</emphasis>
+<emphasis>$29.95 US</emphasis>
+<emphasis>224 pages</emphasis></simpara>
+<simpara>This book is a guide to JavaScript that focuses on good programming techniques rather than offering a mish-mash of cut-and-paste effects. The author teaches you how to leverage JavaScript&#8217;s grace and precision to write real browser-based applications. The book begins with the fundamentals of programming—variables, control structures, functions, and data structures—then moves on to more complex topics, like object-oriented programming, regular expressions, and browser events. With clear examples and a focus on elegance, this book will have you fluent in the language of the web in no time.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/-/9781593272821">Read it on Safari Online Books</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_javascript_cookbook">
+<title>JavaScript Cookbook</title>
+<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis>
+<emphasis>By Shelley Powers</emphasis>
+<emphasis>ISBN: 9781449390211</emphasis>
+<emphasis>July 2010</emphasis>
+<emphasis>$49.99 US</emphasis>
+<emphasis>560 pages</emphasis></simpara>
+<simpara>Covering both ECMAScript 5 and HTML5, this book helps you take advantage of the latest web features, including HTML5&#8217;s persistent storage mechanisms and drawing canvas. You&#8217;ll find solutions for integrating these features with JavaScript into UIs that people will enjoy using. The recipes in this book not only help you get things done, they&#8217;ll also help you develop applications that work reliably in every browser.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781449390211?cid=1107-bibilio-jscript-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_learning_javascript_second_edition">
+<title>Learning JavaScript, Second Edition</title>
+<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis>
+<emphasis>By Shelley Powers</emphasis>
+<emphasis>ISBN: 9780596155636</emphasis>
+<emphasis>December 2008</emphasis>
+<emphasis>$34.99 US</emphasis>
+<emphasis>400 pages</emphasis></simpara>
+<simpara>If you&#8217;re new to JavaScript, or an experienced web developer looking to improve your skills, this book provides you with complete, no-nonsense coverage of this quirky yet essential language for web development. You&#8217;ll learn everything from primitive data types to complex features, including JavaScript elements involved with Ajax and dynamic page effects. By the end of the book, you&#8217;ll be able to work with even the most sophisticated libraries and web applications. Complete with best practices and examples of JavaScript use, this new edition shows you how to integrate the language with the browser environment, and how to practice proper coding techniques for standards-compliant websites. This book follows proven learning principles to help you absorb the concepts at an easy pace, so you&#8217;ll learn how to create powerful and responsive applications in any browser.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780596155636?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_javascript_bible_seventh_edition">
+<title>JavaScript Bible, Seventh Edition</title>
+<simpara><emphasis>John Wiley &amp; Sons</emphasis>
+<emphasis>By Danny Goodman, Michael Morrison, Paul Novitski &amp; Tia Gustaff Rayl</emphasis>
+<emphasis>ISBN: 9780470526910</emphasis>
+<emphasis>October 2010</emphasis>
+<emphasis>$49.99 US</emphasis>
+<emphasis>2,042 pages</emphasis></simpara>
+<simpara>As the most comprehensive book on the market, this book is a classic bestseller that keeps you up to date on the latest changes in JavaScript, the leading technology for incorporating interactivity into Web pages. Part tutorial, part reference, this book serves as both a learning tool for building new JavaScript skills as well as a detailed reference for the more experienced JavaScript user. You&#8217;ll get up-to-date coverage on the latest JavaScript practices that have been implemented since the previous edition, as well as the most updated code listings that reflect new concepts. Plus, you&#8217;ll learn how to apply the latest JavaScript exception handling and custom object techniques.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780470526910?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_head_first_javascript">
+<title>Head First JavaScript</title>
+<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis>
+<emphasis>By Michael Morrison</emphasis>
+<emphasis>ISBN: 9780596527747</emphasis>
+<emphasis>December 2007</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>656 pages</emphasis></simpara>
+<simpara>So you&#8217;re ready to make the leap from writing HTML and CSS web pages to creating dynamic web applications. You want to take your web skills to the next level. And you&#8217;re finally ready to add "programmer" to the resume. It sounds like you&#8217;re ready to learn the Web&#8217;s hottest programming language: JavaScript. This book is your ticket to going beyond copying and pasting the code from someone else&#8217;s web site, and writing your own interactive web pages. It starts where HTML and CSS leave off, and takes you through your first program into more complex programming concepts&#8201;&#8212;&#8201;like working directly with the web browser&#8217;s object model and writing code that works on all modern browsers. You&#8217;ll learn JavaScript, understand it, and have a blast along the way. So get ready&#8230; dynamic and exciting web pages are just pages away.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780596527747?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_javascript_for_absolute_beginners">
+<title>JavaScript for Absolute Beginners</title>
+<simpara><emphasis>Apress</emphasis>
+<emphasis>By Terry McNavage</emphasis>
+<emphasis>ISBN: 9781430272199</emphasis>
+<emphasis>December 2010</emphasis>
+<emphasis>$29.99</emphasis>
+<emphasis>501 pages</emphasis></simpara>
+<simpara>This book takes a practical approach by showing you how to use JavaScript in simple stages, starting with the basics of storing and manipulating data and moving on to reacting to events and using JavaScript to alter CSS and HTML on the fly. It assumes no prior knowledge of JavaScript, and avoids bombarding you with unnecessary technical details. At the same time, it explains the main points and acts as a reference that you can come back to when you need to refresh your memory. More advanced concepts are introduced gradually, so that by the end of the book you&#8217;ll have a solid understanding of all the main aspects of JavaScript. Particular attention is paid to debugging and avoiding common beginners' pitfalls, enabling you to create web sites that not only look good, but are dynamic and exciting for visitors.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781430272199?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_javascript_programmer_8217_s_reference">
+<title>JavaScript® Programmer&#8217;s Reference</title>
+<simpara><emphasis>Wrox</emphasis>
+<emphasis>By Alexei White</emphasis>
+<emphasis>ISBN: 9780470344729</emphasis>
+<emphasis>August 2009</emphasis>
+<emphasis>$44.99</emphasis>
+<emphasis>1030 pages</emphasis></simpara>
+<simpara>Learn everything about using the JavaScript language with the next generation of Rich Internet Applications from the accessible information in this book, which is both a tutorial and a reference guide for web developers. You will master methods for using JavaScript with applications like Microsoft&#8217;s Silverlight, Ajax, Flex, Flash and AIR by practicing with hands-on examples with practical, usable code. Employ this complete JavaScript reference to help you understand JavaScript Data Types, Variables, Operators, Expressions and Statements, work with JavaScript Frameworks and data, and improve performance with Ajax.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780470344729?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_javascript_step_by_step_second_edition">
+<title>JavaScript Step by Step, Second Edition</title>
+<simpara><emphasis>Microsoft Press</emphasis>
+<emphasis>By Steve Suehring</emphasis>
+<emphasis>ISBN: 9780735656550</emphasis>
+<emphasis>December 2010</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>504 pages</emphasis></simpara>
+<simpara>Use this book to teach yourself how to program with JavaScript&#8201;&#8212;&#8201;one step at time. Ideal for developers with fundamental programming skills, this practical tutorial provides the clear guidance and hands-on examples you need to create or customize interactive Web applications using core JavaScript features and techniques.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780735656550?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_javascript_by_example_second_edition">
+<title>JavaScript by Example, Second Edition</title>
+<simpara><emphasis>Prentice Hall</emphasis>
+<emphasis>By Ellie Quigley</emphasis>
+<emphasis>ISBN: 9780137084746</emphasis>
+<emphasis>October 2010</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>912 pages</emphasis></simpara>
+<simpara>This book is the easiest, most hands-on way to learn JavaScript. Legendary programming instructor Ellie Quigley has thoroughly updated her classic book to deliver the skills and information today’s JavaScript users need most–including up-to-the-minute coverage of JavaScript programming constructs, CSS, Ajax, JSON, and the latest JavaScript libraries and best practices. Quigley illuminates every technique with focused, classroom-tested code examples, detailed line-by-line explanations, and real program output. This exceptionally clear, easy-to-understand book takes you from your first script to advanced techniques. It’s the only JavaScript book you’ll ever need!</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780137084746?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_javascript_the_missing_manual">
+<title>JavaScript: The Missing Manual</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By David Sawyer McFarland</emphasis>
+<emphasis>ISBN: 9780596515898</emphasis>
+<emphasis>July 2008</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>544 pages</emphasis></simpara>
+<simpara>JavaScript is essential for creating modern, interactive Web sites. But, unlike HTML and CSS, JavaScript is a true programming language with complex rules that are challenging for most Web designers to learn. In this book bestselling author David McFarland teaches you how to use JavaScript in sophisticated ways&#8201;&#8212;&#8201;even if you have little or no programming experience. In a clear, entertaining way, the book starts out by teaching you how to build a basic JavaScript program. Then, once you&#8217;ve mastered the structure and terminology, you&#8217;ll learn how to use advanced JavaScript tools to add useful interactivity to your sites quickly and painlessly, rather than scripting everything from scratch. If you want to put JavaScript to work right away without getting tangled up in code this is the best book available.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780596515898?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_beginning_javascript_fourth_edition">
+<title>Beginning JavaScript, Fourth Edition</title>
+<simpara><emphasis>Wrox</emphasis>
+<emphasis>By Paul Wilton &amp; Jeremy McPeak</emphasis>
+<emphasis>ISBN: 9780470525937</emphasis>
+<emphasis>October 2009</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>788 pages</emphasis></simpara>
+<simpara>JavaScript is the definitive language for making the Web a dynamic, rich, interactive medium. This guide to JavaScript builds on the success of previous editions and introduces you to many new advances in JavaScript development. The reorganization of the chapters helps streamline your learning process while new examples provide you with updated JavaScript programming techniques. You&#8217;ll get all-new coverage of Ajax for remote scripting, JavaScript frameworks, JavaScript and XML, and the latest features in modern Web browsers. Plus, all the featured code has been updated to ensure compliance with the most recent popular Web browsers. Continuing in the tradition of the first three editions, this book gets you up to speed on all the new advances in JavaScript development.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780470525937?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_javascript_24_hour_trainer">
+<title>JavaScript 24-Hour Trainer</title>
+<simpara><emphasis>Wrox</emphasis>
+<emphasis>By Jeremy McPeak</emphasis>
+<emphasis>ISBN: 9780470647837</emphasis>
+<emphasis>December 2010</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>456 pages</emphasis></simpara>
+<simpara>JavaScript has matured from making Web pages dynamic to making them interactive, providing users with a rich and memorable Web experience. This unique book-and-DVD package prepares you for the new generation of Web browser changes that are occurring on the ever-evolving Web and shows you how JavaScript is an essential component of those changes. Veteran author Jeremy McPeak provides you with helpful lessons in the text, and the DVD offers instructional demonstrations so you can see how JavaScript works in the real world. With the book-and-DVD package of this book you&#8217;ll benefit from a total learning experience!!</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780470647837?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_simply_javascript">
+<title>Simply JavaScript</title>
+<simpara><emphasis>SitePoint</emphasis>
+<emphasis>By Kevin Yank &amp; Cameron Adams</emphasis>
+<emphasis>ISBN: 9780980285802</emphasis>
+<emphasis>June 2007</emphasis>
+<emphasis>$39.95 US</emphasis>
+<emphasis>424 pages</emphasis></simpara>
+<simpara>Packed with full-color examples, this book is a step-by-step introduction to programming in JavaScript the right way. Learn how easy it is to use JavaScript to solve real-world problems, build smarter forms, track user events (such as mouse clicks and key strokes), and design eye-catching animations. Then move into more powerful techniques using the DOM and Ajax. Unlike other JavaScript books, modern best practices such as progressive enhancement, accessibility and unobtrusive scripting are used from the very beginning. All of the code in the book is also cross-browser compatible and downloadable for free, so you can get started instantly!</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780980285802?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_javascript_visual_quickstart_guide_eighth_edition">
+<title>JavaScript: Visual QuickStart Guide, Eighth Edition</title>
+<simpara><emphasis>Peachpit Press</emphasis>
+<emphasis>By Dori Smith &amp; Tom Negrino</emphasis>
+<emphasis>ISBN: 9780132735483</emphasis>
+<emphasis>July 2011</emphasis>
+<emphasis>$34.99 US</emphasis>
+<emphasis>544 pages</emphasis></simpara>
+<simpara>This task-based, visual-reference guide has been fully revised and uses step-by-step instructions and plenty of screenshots to give beginning and intermediate scripters what they need to know to keep their skills up-to-date. Readers can start from the beginning to get a tour of the programming language, or look up specific tasks to learn just what they need to know. In this updated eighth edition, readers will find new information on using frameworks and libraries&#8212;such as jQuery&#8212;and modern coding techniques. This is the Rough Cut version of the printed book.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780132735483?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_the_javascript_pocketguide">
+<title>The JavaScript PocketGuide</title>
+<simpara><emphasis>Peachpit Press</emphasis>
+<emphasis>By Lenny Burdette</emphasis>
+<emphasis>ISBN: 9780321712844</emphasis>
+<emphasis>April 2010</emphasis>
+<emphasis>$14.99</emphasis>
+<emphasis>312 pages</emphasis></simpara>
+<simpara>JavaScript is an object-oriented scripting language that enables you to modify a document&#8217;s structure, styling, and content in response to user actions. This handy pocket serves as both a quick introduction to the language and acts a valuable reference. It&#8217;s packed with tips as well as JavaScript syntax, methods, and properties. Concise and inexpensive, it&#8217;s exactly the guide many web designers and developers need.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780321712844?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_sams_teach_yourself_javascript_in_24_hours">
+<title>Sams Teach Yourself JavaScript in 24 Hours</title>
+<simpara><emphasis>Sams</emphasis>
+<emphasis>By Michael Moncur</emphasis>
+<emphasis>ISBN: 9780672328794</emphasis>
+<emphasis>June 2006</emphasis>
+<emphasis>$34.99 US</emphasis>
+<emphasis>456 pages</emphasis></simpara>
+<simpara>JavaScript is one of the easiest, most straightforward ways to enhance a website with interactivity. This book serves as an easy-to-understand tutorial on both scripting basics and JavaScript itself. The book is written in a clear and personable style with an extensive use of practical, complete examples. It also includes material on the latest developments in JavaScript and web scripting. You will learn how to use JavaScript to enhance web pages with interactive forms, objects, and cookies, as well as how to use JavaScript to work with games, animation, and multimedia.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780672328794?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_sams_teach_yourself_html_css_and_javascript_all_in_one">
+<title>SAMS Teach Yourself HTML, CSS and JavaScript All in One</title>
+<simpara><emphasis>SAMS</emphasis>
+<emphasis>By Julie Meloni</emphasis>
+<emphasis>ISBN: 9780672333323</emphasis>
+<emphasis>October 2011</emphasis>
+<emphasis>$34.99 US</emphasis>
+<emphasis>656 pages</emphasis></simpara>
+<simpara>This is the all-in-one HTML, CSS and JavaScript beginner&#8217;s guide, which covers the three most important languages for web development! It contains everything beginners need to know about the new HTML5 and CSS3 standards and today&#8217;s JavaScript and Ajax libraries - all in one book. Written by the best-selling author Julie Meloni, it contains short, simple lessons that teach hands-on skills readers can apply immediately. Meloni covers all of the building blocks of practical web design and development, integrating new techniques and features into every chapter. Each lesson builds on what&#8217;s come before, showing you exactly how to use HTML5, CSS3, and JavaScript together to create great web sites.</simpara>
+</sect1>
+<sect1 id="_javascript_fundamentals_i_and_ii_video_training">
+<title>Javascript Fundamentals I and II (Video Training)</title>
+<simpara><emphasis>Prentice Hall</emphasis>
+<emphasis>By Paul J. Deitel</emphasis>
+<emphasis>ISBN: 9780137045167</emphasis>
+<emphasis>June 2009</emphasis></simpara>
+<simpara>This video series is all you need to build world-class web applications. It begins with JavaScript basics, including control statements, functions, arrays, objects, events, CSS, DOM, and more. You’ll also master scripting with XML and RSS, and finish by learning to build the rich Ajax applications that are taking the Web by storm! Your instructor, Paul Deitel, delivers over 14 hours of world-class video training.  Paul teaches by analyzing complete working programs, not trivial code fragments.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780137045167?cid=1107-bibilio-jscript-link">See it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+</chapter>
+<chapter id="_advanced_javascript_topics">
+<title>Advanced JavaScript topics</title>
+<sect1 id="_javascript_the_definitive_guide">
+<title>JavaScript: The Definitive Guide</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By David Flanagan</emphasis>
+<emphasis>ISBN: 9781449393854</emphasis>
+<emphasis>May 2011</emphasis>
+<emphasis>$49.99 US</emphasis>
+<emphasis>1,100 pages</emphasis></simpara>
+<simpara>Whether you need an example-driven programmer&#8217;s guide or a complete desk reference, this is the most authoritative book on the language that runs the Web. The sixth edition offers comprehensive coverage of ECMAScript 5 (the new language standard) and also the new APIs introduced in HTML5. The chapters on functions and classes have been completely rewritten and updated to match current best practices. A new chapter covers language extensions and subsets.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781449393854?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_javascript_the_good_parts">
+<title>JavaScript: The Good Parts</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Douglas Crockford</emphasis>
+<emphasis>ISBN: 9780596517748</emphasis>
+<emphasis>May 2008</emphasis>
+<emphasis>$29.99 US</emphasis>
+<emphasis>176 pages</emphasis></simpara>
+<simpara>Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that&#8217;s more reliable, readable, and maintainable than the language as a whole&#8212;a subset you can use to create truly extensible and efficient code. The JavaScript expert Douglas Crockford identifies the abundance of good ideas that make JavaScript an outstanding object-oriented programming language&#8212;ideas such as functions, loose typing, dynamic objects, and an expressive object literal notation. Unfortunately, these good ideas are mixed in with bad and downright awful ideas, like a programming model based on global variables. When Java applets failed, JavaScript became the language of the Web by default, making its popularity almost completely independent of its qualities as a programming language. In this book Crockford finally digs through the steaming pile of good intentions and blunders to give you a detailed look at all the genuinely elegant parts of JavaScript.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780596517748?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_javascript_patterns">
+<title>JavaScript Patterns</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Stoyan Stefanov</emphasis>
+<emphasis>ISBN: 9781449399115</emphasis>
+<emphasis>September 2010</emphasis>
+<emphasis>$29.99 US</emphasis>
+<emphasis>240 pages</emphasis></simpara>
+<simpara>Now that JavaScript plays such a key role in modern websites, programmers who once dismissed it as a language for amateurs find themselves immersed in JavaScript code. JavaScript Patterns identifies key problem areas you might face when working with the language, and provides design patterns and coding patterns as solutions. Author Stoyan Stefanov includes several examples for each pattern as well as practical advice for implementing it.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781449399115?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_high_performance_javascript">
+<title>High Performance JavaScript</title>
+<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis>
+<emphasis>By Nicholas C. Zakas</emphasis>
+<emphasis>ISBN: 9781449382308</emphasis>
+<emphasis>March 2010</emphasis>
+<emphasis>$34.99 US</emphasis>
+<emphasis>240 pages</emphasis></simpara>
+<simpara>If you&#8217;re like most developers, you rely heavily on JavaScript to build interactive and quick-responding web applications. The problem is that all of those lines of JavaScript code can slow down your apps. This book reveals techniques and strategies to help you eliminate performance bottlenecks during development. You&#8217;ll learn optimal ways to load code onto a page, programming tips to help your JavaScript run as efficiently and quickly as possible, best practices to build and deploy your files to a production environment, and more.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781449382308?cid=1107-bibilio-jscript-link">Read it on Safari Books Onilne</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_secrets_of_the_javascript_ninja">
+<title>Secrets of the JavaScript Ninja</title>
+<simpara><emphasis>Manning Publications</emphasis>
+<emphasis>By John Resig &amp; Bear Bibeault</emphasis>
+<emphasis>ISBN: 9781933988696</emphasis>
+<emphasis>December 2011</emphasis>
+<emphasis>$39.99</emphasis>
+<emphasis>300 pages</emphasis></simpara>
+<simpara>In this book, JavaScript expert John Resig reveals the inside know-how of the elite JavaScript programmers. Written to be accessible to JavaScript developers with intermediate-level skills, this book will give you the knowledge you need to create a cross-browser JavaScript library from the ground up. This book examines all of the numerous tasks JavaScript libraries have to tackle and provides practical solutions and development strategies for their creation. It then guides you through the various maintenance techniques you will need to keep your code running well into the future.</simpara>
+</sect1>
+<sect1 id="_ppk_on_javascript">
+<title>ppk on JavaScript</title>
+<simpara><emphasis>New Riders</emphasis>
+<emphasis>By Peter-Paul Koch</emphasis>
+<emphasis>ISBN: 9780321423306</emphasis>
+<emphasis>September 2006</emphasis>
+<emphasis>$44.99 US</emphasis>
+<emphasis>528 pages</emphasis></simpara>
+<simpara>Other JavaScript books use example scripts that have little bearing on real-world Web development and are useful only in the chapter at hand. In contrast, this book uses eight real-world scripts Peter-Paul Koch created for real-world clients in order to earn real-world money. That means the scripts are guaranteed to do something useful (and sellable!) that enhances the usability of the page they&#8217;re used on. After an overview of JavaScript&#8217;s purpose, Peter-Paul provides theoretical chapters on the context (jobs for JavaScript, CSS vs. JavaScript), the browsers (debugging, the arcana of the browser string), and script preparation. Then follow practical chapters on Core, BOM, Events, DOM, CSS Modification, and Data Retrieval, all of which are explained through a combination of theoretical instruction and the taking apart of the relevant sections of the example scripts.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/0321423305?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_test_driven_javascript_development">
+<title>Test-Driven JavaScript Development</title>
+<simpara><emphasis>Addison-Wesley Professional</emphasis>
+<emphasis>By Christian Johansen</emphasis>
+<emphasis>ISBN: 9780321684097</emphasis>
+<emphasis>September 2010</emphasis>
+<emphasis>$49.99</emphasis>
+<emphasis>600 pages</emphasis></simpara>
+<simpara>This book is a complete, best-practice guide to agile JavaScript testing and quality assurance with the test-driven development (TDD) methodology. Leading agile JavaScript developer Christian Johansen covers all aspects of applying state-of-the-art automated testing in JavaScript environments, walking readers through the entire development lifecycle, from project launch to application deployment, and beyond. Using real-life examples driven by unit tests, Johansen shows how to use TDD to gain greater confidence in your code base, so you can fearlessly refactor and build more robust, maintainable, and reliable JavaScript code at lower cost. Throughout, he addresses crucial issues ranging from code design to performance optimization, offering realistic solutions for developers, QA specialists, and testers.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780321684097?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_node_up_and_running_scalable_server_side_code_with_javascript">
+<title>Node: Up and Running: Scalable Server-Side Code with JavaScript</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Tom Hughes-Croucher</emphasis>
+<emphasis>ISBN: 9781449398583</emphasis>
+<emphasis>September 2011</emphasis>
+<emphasis>$34.99</emphasis>
+<emphasis>200 pages</emphasis></simpara>
+<simpara>This book introduces you to Node, the new web development framework written in JavaScript. You&#8217;ll learn hands-on how Node makes life easier for experienced JavaScript developers: not only can you work on the front end and back end in the same language, you&#8217;ll also have more flexibility in choosing how to divide application logic between client and server. Written by a core contributor to the framework, this book shows you how Node scales up to support large numbers of simultaneous connections across multiple servers, and scales down to let you create quick one-off applications with minimal infrastructure. Built on the V8 JavaScript engine that runs Google Chrome, Node is already winning the hearts and minds of many companies, including Google and Yahoo! This book shows you why.</simpara>
+</sect1>
+<sect1 id="_object_oriented_javascript_create_scalable_reusable_high_quality_javascript_applications_and_libraries">
+<title>Object-Oriented JavaScript: Create scalable, reusable high-quality JavaScript applications, and libraries</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Stoyan Stefanov</emphasis>
+<emphasis>ISBN: 9781847194145</emphasis>
+<emphasis>July 2008</emphasis>
+<emphasis>$35.99 US</emphasis>
+<emphasis>356 pages</emphasis></simpara>
+<simpara>This book treats JavaScript as a serious object-oriented language, showing you how to build robust, maintainable, and powerful libraries and applications. Along the way, we cover many of the recent innovations such as AJAX, JSON, and interesting design and coding patterns. After reading this book, you&#8217;ll be prepared to ace your JavaScript job interview and even impress with some bits that the interviewer maybe didn&#8217;t know. You should read this book if you want to be able to take your JavaScript skills to a new level of sophistication.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781847194145?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_professional_javascript_for_web_developers_second_edition">
+<title>Professional, JavaScript for Web Developers, Second Edition</title>
+<simpara><emphasis>Wrox</emphasis>
+<emphasis>By Nicholas C. Zakas</emphasis>
+<emphasis>ISBN: 9780470227800</emphasis>
+<emphasis>$49.99 US</emphasis>
+<emphasis>836 pages</emphasis></simpara>
+<simpara>This eagerly anticipated update to the breakout book on JavaScript offers you an in-depth look at the numerous advances to the techniques and technology of the JavaScript language. You&#8217;ll see why JavaScript&#8217;s popularity continues to grow while you delve through topics such as debugging tools in Microsoft Visual Studio, FireBug, and Drosera; client-side data storage with cookies, DOM storage, and client-side databases; HTML 5, ECMAScript 3.1, the Selectors API; and design patterns including creational, structural, and behavorial patterns.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780470227800?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_pro_javascript_techniques">
+<title>Pro JavaScript Techniques</title>
+<simpara><emphasis>Apress</emphasis>
+<emphasis>By John Resig</emphasis>
+<emphasis>ISBN: 9781590597279</emphasis>
+<emphasis>December 2006</emphasis>
+<emphasis>$44.99 US</emphasis>
+<emphasis>384 pages</emphasis></simpara>
+<simpara>This is the ultimate JavaScript book for the modern web developer. It provides everything you need to know about modern JavaScript, and shows what JavaScript can do for your web sites. This book doesn’t waste any time looking at things you already know, like basic syntax and structures. Expert web developer and author John Resig concentrates on fundamental, vital topics, what modern JavaScripting is (and isnt), the current state of browser support, and pitfalls to be wary of.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781590597279?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_pro_javascript_design_patterns">
+<title>Pro JavaScript Design Patterns</title>
+<simpara><emphasis>Apress</emphasis>
+<emphasis>By Ross Harmes &amp; Dustin Diaz</emphasis>
+<emphasis>ISBN: 9781590599082</emphasis>
+<emphasis>December 2007</emphasis>
+<emphasis>$44.99 US</emphasis>
+<emphasis>269 pages</emphasis></simpara>
+<simpara>With this book you&#8217;ll start with the basics of object-oriented programming in JavaScript applicable to design patterns, including making JavaScript more expressive, inheritance, encapsulation, information hiding, and more. With that covered, you can kick-start your JavaScript development in the second part of the book, where you&#8217;ll find detail on how to implement and take advantage of several design patterns in JavaScript, including composites, decorators, façades, adapters, and many more. Each chapter is packed with real-world examples of how the design patterns are best used and expert advice on writing better code, as well as what to watch out for. Along the way you&#8217;ll discover how to create your own libraries and APIs for even more efficient coding.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781590599082?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_advanced_javascript">
+<title>Advanced JavaScript</title>
+<simpara><emphasis>Jones &amp; Bartlett Learning</emphasis>
+<emphasis>By Chuck Easttom</emphasis>
+<emphasis>ISBN: 9781598220339</emphasis>
+<emphasis>August 2008</emphasis>
+<emphasis>$39.95 US</emphasis>
+<emphasis>591 pages</emphasis></simpara>
+<simpara>This book provides an in-depth examination of the most important features of JavaScript. Beginning with an overview of JavaScript, the book quickly moves into more advanced features needed for complex yet robust JavaScript scripts, such as objects, arrays, and date and time functions. Additionally, various features of JavaScript that are essential for modern web pages are discussed, including manipulating the status bar, creating dynamic calendars, and working with forms, images, and the Document Object Model. Learn how to enhance your web pages with LED signs, banners, and images Implementing cookies to store and retrieve information. The structure of the Document Object Model and how it can be used to view, access, and change an HTML document Security is also covered.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781598220339?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_developing_javascript_web_applications">
+<title>Developing JavaScript Web Applications</title>
+<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis>
+<emphasis>By Alex MacCaw</emphasis>
+<emphasis>ISBN: 9781449308216</emphasis>
+<emphasis>September 2011</emphasis>
+<emphasis>$34.99  US</emphasis>
+<emphasis>250 pages</emphasis></simpara>
+<simpara>Building rich JavaScript applications that bring the desktop experience to the Web is now possible, thanks to powerful JavaScript engines and the CSS3 and HTML5 specifications. This book takes you through all the steps necessary to create state-of-the-art JavaScript applications, including structure, templating, frameworks, communicating with the server, and many other issues. Through practical, tutorial-based explanations, you learn how to create JavaScript applications that offer a much more responsive and improved experience.  Learn about major frameworks and libraries, including jQuery, JavaScriptMVC and Backbone.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781449308216?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_javascript_testing_beginner_8217_s_guide_test_and_debug_javascript_the_easy_way">
+<title>JavaScript Testing Beginner&#8217;s Guide : Test and Debug JavaScript the Easy Way</title>
+<simpara><emphasis>Packt Publishing _
+_By Liang Yuxian Eugene</emphasis>
+<emphasis>ISBN: 9781849510004</emphasis>
+<emphasis>August 2010</emphasis>
+<emphasis>$44.99 US</emphasis>
+<emphasis>272 pages</emphasis></simpara>
+<simpara>This book is organized such that only the most essential information is provided to you in each chapter so as to maximize your learning. Examples and tutorials are given in an easy to follow, step-by-step manner so that you can see how the testing process is being carried out and how the code is being written. The source code also contains detailed explanation so that you know what the code is doing. Multiple screenshots are used in places that matter so that you have a visual sense of what is happening. This book is for beginner JavaScript developers looking for essential ways to write, test, and debug JavaScript for different purposes and situations.</simpara>
+</sect1>
+<sect1 id="_high_performance_web_sites">
+<title>High Performance Web Sites</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Steve Souders</emphasis>
+<emphasis>ISBN: 9780596529307</emphasis>
+<emphasis>September 2007</emphasis>
+<emphasis>$29.99 US</emphasis>
+<emphasis>176 pages</emphasis></simpara>
+<simpara>Want your web site to display more quickly? This book presents 14 specific rules that will cut 25% to 50% off response time when users request a page. Author Steve Souders, in his job as Chief Performance Yahoo!, collected these best practices while optimizing some of the most-visited pages on the Web. Even sites that had already been highly optimized, such as Yahoo! Search and the Yahoo! Front Page, were able to benefit from these surprisingly simple performance guidelines. The rules in High Performance Web Sites explain how you can optimize the performance of the Ajax, CSS, JavaScript, Flash, and images that you&#8217;ve already built into your site&#8201;&#8212;&#8201;adjustments that are critical for any rich web application. If you&#8217;re building pages for high traffic destinations and want to optimize the experience of users visiting your site, this book is indispensable.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780596529307?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_even_faster_web_sites">
+<title>Even Faster Web Sites</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Steve Souders</emphasis>
+<emphasis>ISBN: 9780596522308</emphasis>
+<emphasis>June 2009</emphasis>
+<emphasis>$34.99 US</emphasis>
+<emphasis>256 pages</emphasis></simpara>
+<simpara>Performance is critical to the success of any web site, and yet today&#8217;s web applications push browsers to their limits with increasing amounts of rich content and heavy use of Ajax. In this book, Steve Souders, web performance evangelist at Google and former Chief Performance Yahoo!, provides valuable techniques to help you optimize your site&#8217;s performance. In this book Souders and eight expert contributors provide best practices and pragmatic advice for improving your site&#8217;s performance in three critical categories: JavaScript, Network and Browser. Speed is essential for today&#8217;s rich media web sites and Web 2.0 applications. With this book, you&#8217;ll learn how to shave precious seconds off your sites' load times and make them respond even faster.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780596522308?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_supercharged_javascript_graphics">
+<title>Supercharged JavaScript Graphics</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Raffaele Cecco</emphasis>
+<emphasis>ISBN: 9781449393632</emphasis>
+<emphasis>July 2011</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>258 pages</emphasis></simpara>
+<simpara>Thanks to improved web browser support and the advent of HTML5, JavaScript now plays a major role in programming high-performance web graphics. This hands-on book shows you how to create rich web applications for big-screen computers and small-screen mobile devices using JavaScript, jQuery, DHTML, and HTML5&#8217;s Canvas element—without plugins. By following real-world examples, experienced web developers will learn fun and useful approaches to arcade games, DHTML effects, business dashboards, and more. This book provides a gentle learning curve by serving complex subjects in easily digestible pieces, with each topic acting as a foundation for the next. Learn how to take advantage of JavaScript&#8217;s growing power and speed to build a new generation of user experiences.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781449393632?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+</chapter>
+<chapter id="_ajax_amp_dom_scripting">
+<title>AJAX &amp; DOM Scripting</title>
+<sect1 id="_ajax_the_definitive_guide">
+<title>Ajax: The Definitive Guide</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Anthony T. Holdener III</emphasis>
+<emphasis>ISBN: 9780596528386</emphasis>
+<emphasis>February 2008</emphasis>
+<emphasis>$49.99 US</emphasis>
+<emphasis>992 pages</emphasis></simpara>
+<simpara>Is Ajax a new technology, or the same old stuff web developers have been using for years? Both, actually. This book demonstrates not only how tried-and-true web standards make Ajax possible, but how these older technologies allow you to give sites a decidedly modern Web 2.0 feel.  This book explains how to use standards like JavaScript, XML, CSS, and XHTML, along with the XMLHttpRequest object, to build browser-based web applications that function like desktop programs. You get a complete background on what goes into today&#8217;s web sites and applications, and learn to leverage these tools along with Ajax for advanced browser searching, web services, mashups, and more. You discover how to turn a web browser and web site into a true application, and why developing with Ajax is faster, easier and cheaper.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780596528386?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_dom_scripting_web_design_with_javascript_and_the_document_object_model_second_edition">
+<title>DOM Scripting: Web Design with JavaScript and the Document Object Model, Second Edition</title>
+<simpara><emphasis>friends of ED</emphasis>
+<emphasis>By Jeremy Keith &amp; Jeffrey Sambells</emphasis>
+<emphasis>ISBN: 9781430233893</emphasis>
+<emphasis>December 2010</emphasis>
+<emphasis>$34.99 US</emphasis>
+<emphasis>330 pages</emphasis></simpara>
+<simpara>There are three main technologies married together to create usable, standards-compliant web designs: XHTML for data structure, Cascading Style Sheets for styling your data, and JavaScript for adding dynamic effects and manipulating structure on the fly using the Document Object Model. This book is about the latter of the three. This book gives you everything you need to start using JavaScript and the Document Object Model to enhance your web pages with client-side dynamic effects. We start off by giving you a basic crash course in JavaScript and the DOM, then move on to provide you with several real world examples built up from scratch including dynamic image galleries and dynamic menus, and show you how to manipulate web page styles using the CSS DOM, and create markup on the fly.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781430233893?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_scriptin_with_javascript_and_ajax_a_designer_s_guide">
+<title>Scriptin’ with JavaScript and Ajax: A Designer’s Guide</title>
+<simpara><emphasis>New Riders</emphasis>
+<emphasis>By Charles Wyke-Smith</emphasis>
+<emphasis>ISBN: 9780321678539</emphasis>
+<emphasis>August 2009</emphasis>
+<emphasis>$44.99 US</emphasis>
+<emphasis>312 pages</emphasis></simpara>
+<simpara>JavaScript is the brains of your Web page—it enables you to modify a document’s structure, styling, and content in response to user actions without requesting new pages from the server. This book teaches you how to master this powerful and elegant language so you can develop intuitive user interactions that take the user experience to new levels of sophistication and responsiveness. Today’s application-like Web experiences (such as Salesforce.com and Google Maps) and Web 2.0 sites (such as Flickr.com and Twitter) are powered by JavaScript and Ajax. Using the techniques shown in this book, you will be able to start creating similar experiences in the sites you design.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780321678539?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_practical_javascript_dom_scripting_and_ajax_projects">
+<title>Practical JavaScript, DOM Scripting and Ajax Projects</title>
+<simpara><emphasis>Apress</emphasis>
+<emphasis>By Frank Zammetti</emphasis>
+<emphasis>ISBN: 9788181287137</emphasis>
+<emphasis>April 2007</emphasis>
+<emphasis>576 pages</emphasis>
+<emphasis>$44.99 US</emphasis></simpara>
+<simpara>This book is ideal for web developers already experienced in JavaScript who want to take their knowledge to the next level. It presents 10 complete example projects for you to learn from and adapt for use in your own work. The book starts with a quick recap of the fundamentals of modern JavaScript development before moving right along to the applications. For each application, you are taken through the planning, design, and implementation stages. Over the course of the book, author Frank Zammetti covers JavaScript best practices, Ajax techniques, and some of the most popular JavaScript libraries, such as Prototype, Script.aculo.us, and the Yahoo YUI. One of the main premises of this book is to help you learn by example so you can then apply your knowledge to your own projects. This book will save you countless hours of development time and help further your JavaScript knowledge!</simpara>
+</sect1>
+<sect1 id="_accelerated_dom_scripting_with_ajax_apis_and_libraries">
+<title>Accelerated DOM Scripting with Ajax, APIs, and Libraries</title>
+<simpara><emphasis>Apress</emphasis>
+<emphasis>By Jonathan Snook, Aaron Gustafson, Stuart Langridge, Dan Webb</emphasis>
+<emphasis>ISBN: 9781590597644</emphasis>
+<emphasis>September 2007</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>221 pages</emphasis></simpara>
+<simpara>If you&#8217;re a web developer with previous JavaScript and DOM scripting experience, this book is perfect for you to take your knowledge up to the next level. By reading this book, you should have a greater understanding of how JavaScript works and be able to use advanced concepts such as closures and event delegation to build more flexible applications for the Web. You&#8217;ll walk away with a greater appreciation for JavaScript libraries and how they can simplify and speed up your development. You&#8217;ll also be able to implement Ajax effectively into your site, create special effects, use JavaScript libraries, and know how best to apply these libraries to your projects.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781590597644?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_professional_ajax_2nd_edition">
+<title>Professional Ajax, 2nd Edition</title>
+<simpara><emphasis>Wrox</emphasis>
+<emphasis>By Nicholas C. Zakas, Jeremy McPeak &amp; Joe Fawcett</emphasis>
+<emphasis>ISBN: 978-0470109496</emphasis>
+<emphasis>March 2007</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>623 pages</emphasis></simpara>
+<simpara>Professional Ajax 2nd Edition provides a developer-level tutorial of Ajax techniques, patterns, and use cases. It is written for Web application developers looking to enhance the usability of their web sites and web applications and intermediate JavaScript developers looking to further understand the language. Readers should have familiarity with XML, XSLT, Web Services, PHP or C#, HTML, CSS. This book is not aimed at beginners without a basic understanding of the aforementioned technologies. Also, a good understanding of JavaScript is vitally important to understanding this book.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780470109496?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+<sect2 id="_murach_8217_s_javascript_and_dom_scripting_murach_training_amp_reference">
+<title>Murach&#8217;s JavaScript and DOM Scripting (Murach: Training &amp; Reference)</title>
+<simpara><emphasis>Mike Murach &amp; Associates</emphasis>
+<emphasis>By Ray Harris</emphasis>
+<emphasis>ISBN: 9781890774554</emphasis>
+<emphasis>August 2009</emphasis>
+<emphasis>$54.50 US</emphasis>
+<emphasis>764 pages</emphasis></simpara>
+<simpara>Want to create websites that deliver the fast response times, dynamic user interfaces, and special effects that today&#8217;s users expect? Then this is the book for you! Whether you&#8217;re just starting out in JavaScript or whether you&#8217;re ready to move into DOM scripting, it gives you the skills you need. The first half of this book is a course in JavaScript essentials. Then, the second half is a course in DOM scripting that gives you a clear understanding of how DOM scripting works, how JavaScript underlies it, and how to use it to build applications that run slide shows, use drop-down menus, rotate headlines, sort tables, provide animation, and more! That means you can gain basic to expert skills in a single book. So don&#8217;t wait to become an expert web developer, get started on this book.</simpara>
+</sect2>
+</sect1>
+<sect1 id="_javascript_and_ajax_for_dummies">
+<title>JavaScript and AJAX for Dummies</title>
+<simpara><emphasis>For Dummies</emphasis>
+<emphasis>By Andy Harris</emphasis>
+<emphasis>ISBN: 9780470417997</emphasis>
+<emphasis>December 2009</emphasis>
+<emphasis>$29.99 US</emphasis>
+<emphasis>496 pages</emphasis></simpara>
+<simpara>If you want to build Web pages that offer real value to your site&#8217;s visitors, JavaScript and AJAX are top tools for the job. Even if you&#8217;re new to Web programming, this book helps you create sites any designer will admire. With easy-to-understand steps and an emphasis on free tools, you&#8217;ll be able to jump right into building a site using the same techniques as the pros.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780470417997?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_javascript_and_ajax_for_the_web_visual_quickstart_guide_seventh_edition">
+<title>JavaScript and Ajax for the Web: Visual QuickStart Guide, Seventh Edition</title>
+<simpara><emphasis>Peachpit Press</emphasis>
+<emphasis>Tom Negrino &amp; Dori Smith</emphasis>
+<emphasis>ISBN: 9780321564085</emphasis>
+<emphasis>October 2008</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>544 pages</emphasis></simpara>
+<simpara>This task-based, visual reference guide has been fully revised. It uses step-by-step instructions and plenty of screenshots to give beginning and intermediate Web designers what they need to know to learn JavaScript. Readers can start from the beginning to get a tour of the programming language, or look up specific tasks to learn just what they need to know. In this updated seventh edition, readers will find new information on Ajax design and modern coding techniques.</simpara>
+<simpara><emphasis>_http://my.safaribooksonline.com/book/programming/javascript/9780321602688?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]</emphasis></simpara>
+</sect1>
+<sect1 id="_ajax_design_patterns">
+<title>Ajax Design Patterns</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Michael Mahemoff</emphasis>
+<emphasis>ISBN: 9780596101800</emphasis>
+<emphasis>$44.99 US</emphasis>
+<emphasis>656 pages</emphasis></simpara>
+<simpara>Ajax, or Asynchronous JavaScript and XML, exploded onto the scene in the spring of 2005 and remains the hottest story among web developers. With its rich combination of technologies, Ajax provides a strong foundation for creating interactive web applications with XML or JSON-based web services by using JavaScript in the browser to process the web server response. This book shows you best practices that can dramatically improve your web development projects. It investigates how others have successfully dealt with conflicting design principles in the past and then relays that information directly to you. This book will also get you up to speed with core Ajax technologies, such as XMLHttpRequest, the DOM, and JSON. Technical discussions are followed by code examples so you can see for yourself just what is-and isn&#8217;t-possible with Ajax. This handy reference will help you to produce high-quality Ajax architectures, streamline web application performance, and improve the user experience.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780596101800?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_adding_ajax">
+<title>Adding Ajax</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Shelley Powers</emphasis>
+<emphasis>ISBN: 9780596529369</emphasis>
+<emphasis>$34.99 US</emphasis>
+<emphasis>400 pages</emphasis></simpara>
+<simpara>Ajax can bring many advantages to an existing web application without forcing you to redo the whole thing. This book explains how you can add Ajax to enhance, rather than replace, the way your application works. For instance, if you have a traditional web application based on submitting a form to update a table, you can enhance it by adding the capability to update the table with changes to the form fields, without actually having to submit the form. That&#8217;s just one example. This book is for those of you more interested in extending existing applications than in creating Rich Internet Applications (RIA). You already know the "business-side" of applications-web forms, server-side driven pages, and static content-and now you want to make your web pages livelier, more fun, and much more interactive.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780596529369?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_unobtrusive_ajax">
+<title>Unobtrusive Ajax</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Jesse Skinner</emphasis>
+<emphasis>ISBN: 9780596557492</emphasis>
+<emphasis>$9.99 US</emphasis>
+<emphasis>57 pages</emphasis></simpara>
+<simpara>This book is about making web applications that work for everyone all of the time, even if you have JavaScript turned off, or you&#8217;re using a mobile phone or a screen reader, or however you happen to be using the Web. It&#8217;s about the separation of behavior (JavaScript), content (HTML), and presentation (CSS). This short cut will focus on the practical benefits of using Ajax and JavaScript unobtrusively and show you that unobtrusive web development and progressive enhancement benefit both web developers and users of the Web. You&#8217;ll get to see many simple examples of building web interfaces that are unobtrusive. You&#8217;ll quickly see that it is actually very easy to make web applications that everyone can use. When you&#8217;re finished reading this short cut, you will be able to convince anyone why developing unobtrusively is the best way to build a site with JavaScript and Ajax.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/web-development/ajax/9780596510244?cid=1107-biblio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+</chapter>
+<chapter id="_javascript_libraries">
+<title>JavaScript Libraries</title>
+<sect1 id="_jquery_in_action_second_edition">
+<title>jQuery in Action, Second Edition</title>
+<simpara><emphasis>Manning Publications</emphasis>
+<emphasis>By Bear Bibeault &amp; Yehuda Katz</emphasis>
+<emphasis>ISBN: 9781935182320</emphasis>
+<emphasis>June 2010</emphasis>
+<emphasis>$44.99 US</emphasis>
+<emphasis>475 pages</emphasis></simpara>
+<simpara>This book is a fast-paced introduction and guide. It shows you how to traverse HTML documents, handle events, perform animations, and add Ajax to your web pages. The book&#8217;s unique "lab pages" anchor the explanation of each new concept in a practical example. You&#8217;ll learn how jQuery interacts with other tools and frameworks and how to build jQuery plugins. This revised and expanded second edition includes even more lab pages than before, along with numerous examples that show the latest best practices developed by the jQuery community. It provides full coverage of jQuery 1.4, along with a deeper look at the ever-expanding world of jQuery plug-ins. This book requires some knowledge of JavaScript and Ajax but no previous experience with jQuery.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781935182320?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_jquery_novice_to_ninja">
+<title>jQuery: Novice to Ninja</title>
+<simpara><emphasis>SitePoint</emphasis>
+<emphasis>By Earle Castledine &amp; Craig Sharkie</emphasis>
+<emphasis>ISBN: 9780980576856</emphasis>
+<emphasis>February 2010</emphasis>
+<emphasis>$39.95 US</emphasis>
+<emphasis>300 pages</emphasis></simpara>
+<simpara>This book is a compilation of best-practice jQuery solutions to meet the most challenging JavaScript problems. In this question-and-answer book on jQuery, you&#8217;ll find a cookbook of ready-to-go solutions to help breathe life into your web page.   Topics covered include: scrolling, resizing and animating Webpage elements and backgrounds, slideshows, and crossfaders. You will learn how to add interactivity with Ajax and how to use jQuery and write your own plug-ins.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780980576856?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_jquery_cookbook">
+<title>jQuery Cookbook</title>
+<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis>
+<emphasis>By: Cody Lindley
+_ISBN: 9780596806941</emphasis>
+<emphasis>November 2009</emphasis>
+<emphasis>$34.99</emphasis>
+<emphasis>480 pages</emphasis></simpara>
+<simpara>jQuery simplifies building rich, interactive web frontends. Getting started with this JavaScript library is easy, but it can take years to fully realize its breadth and depth; this cookbook shortens the learning curve considerably. With these recipes, you&#8217;ll learn patterns and practices from 19 leading developers who use jQuery for everything from integrating simple components into websites and applications to developing complex, high-performance user interfaces. Ideal for newcomers and JavaScript veterans alike, This book  starts with the basics and then moves to practical use cases with tested solutions to common web development hurdles. You also get recipes on advanced topics, such as methods for applying jQuery to large projects.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780596806941?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_jquery_1_4_reference_guide">
+<title>jQuery 1.4 Reference Guide</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Jonathan Chaffer &amp; Karl Swedberg</emphasis>
+<emphasis>ISBN: 9781849510042</emphasis>
+<emphasis>$35.99 US</emphasis>
+<emphasis>336 pages</emphasis></simpara>
+<simpara>This book is a comprehensive exploration of the popular JavaScript library, jQuery. In this book you will be provided information about the latest features of jQuery that include Sizzle Selector, Native event delegation, Event triggering, DOM manipulation, and many more. You won&#8217;t be confined to built-in functionality, you&#8217;ll be able to examine jQuery&#8217;s plug-in architecture and we discuss both how to use plug-ins and how to write your own. If you&#8217;re already familiar with JavaScript programming, this book will help you dive right into advanced jQuery concepts. You&#8217;ll be able to experiment on your own, trusting the pages of this book to provide information on the intricacies of the library, where and when you need it.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781849510042?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_jquery_pocket_reference">
+<title>jQuery Pocket Reference</title>
+<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis>
+<emphasis>By David Flanagan</emphasis>
+<emphasis>ISBN: 9781449398958</emphasis>
+<emphasis>December 2010</emphasis>
+<emphasis>$12.99 US</emphasis>
+<emphasis>160 pages</emphasis></simpara>
+<simpara>If you&#8217;ve turned to the jQuery library to simplify common client-side JavaScript tasks, this pocket reference will help you quickly locate what you need from jQuery&#8217;s vast array of functions and properties to complete your web project. This book provides a series of tutorials on various jQuery features, along with a quick reference to the entire library. It&#8217;s an ideal book for beginners and experienced JavaScript developers alike.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781449398958?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_jquery_1_4_plugin_development">
+<title>jQuery 1.4 Plugin Development</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Giulio Bai</emphasis>
+<emphasis>ISBN: 9781849512244</emphasis>
+<emphasis>October 2010</emphasis>
+<emphasis>$40.49 US</emphasis>
+<emphasis>288 pages</emphasis></simpara>
+<simpara>This book will help you to build powerful, interactive plugins to implement jQuery in the best way possible. With this exhaustive guide in hand, you can start building your own plugins in a matter of minutes! This book takes you beyond the basics of jQuery and enables you to take full advantage of jQuery&#8217;s powerful plugin architecture to deliver highly interactive content to your website viewers. Different topics regarding plugin development are discussed, and you will learn how to develop many types of add-ons, ranging from media plugins (such as slideshows, video and audio controls, and so on) to various utilities (image pre-loading, handling cookies) and use and applications of jQuery effects and animations (sliding, fading, combined animations) to eventually demonstrate how all of these plugins can be merged and give birth to a new, more complex, and multipurpose script that comes in handy in a lot of situations.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781849512244?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_learning_jquery_better_interaction_design_and_web_development_with_simple_javascript_techniques">
+<title>Learning jQuery: Better Interaction Design and Web Development with Simple JavaScript Techniques</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Jonathan Chaffer &amp; Karl Swedberg</emphasis>
+<emphasis>ISBN: 9781847192509</emphasis>
+<emphasis>July 2007</emphasis>
+<emphasis>$35.99 US</emphasis>
+<emphasis>380 pages</emphasis></simpara>
+<simpara>jQuery is a powerful JavaScript library that can enhance your websites regardless of your background. In this book, creators of the popular jQuery learning resource, LearningjQuery.com, share their knowledge, experience, and enthusiasm about jQuery to help you get the most from the library and to make your web applications shine. This book begins with a tutorial to jQuery, followed by an examination of common, real-world client-side problems, and solutions for each of them making it an invaluable resource for answers to all your jQuery questions. This book is for web designers who want to create interactive elements for their designs, and for developers who want to create the best user interface for their web applications.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781847192509?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_jquery_visual_quickstart_guide">
+<title>jQuery: Visual QuickStart Guide</title>
+<simpara><emphasis>Peachpit Press</emphasis>
+<emphasis>By Steve Holzner</emphasis>
+<emphasis>ISBN: 9780321679673</emphasis>
+<emphasis>June 2009</emphasis>
+<emphasis>$29.99 US</emphasis>
+<emphasis>240 pages</emphasis></simpara>
+<simpara>jQuery is a popular JavaScript library that simplifies event handling, animating, and Ajax interactions for rapid web development. Even casual web designers, who create web pages for fun, want to add the latest cool effects to their sites, and jQuery&#8212;the fast, flexible JavaScript library&#8212;is a tool of choice. Just as CSS separates "display" characteristics from the HTML structure, jQuery separates the "behavior" characteristics from the HTML structure. From visual effects, special controls, and Ajax made easy, this book will teach readers how to make the most of jQuery using the task-based, step-by-step, visual format they love. It&#8217;s crammed with examples and there&#8217;s a special section on widgets.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780321679673?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_jquery_ui_1_7">
+<title>jQuery UI 1.7</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Dan Wellman</emphasis>
+<emphasis>ISBN: 9781847199720</emphasis>
+<emphasis>November 2009</emphasis>
+<emphasis>$40.49 US</emphasis>
+<emphasis>392 pages</emphasis></simpara>
+<simpara>Specially revised for version 1.7 of jQuery UI, this book has been written to maximize your experience with the library by breaking down each component and walking you through examples that progressively build upon your knowledge, taking you from beginner to advanced usage in a series of easy-to-follow steps. In this book, you&#8217;ll learn how each component can be initialized in a basic default implementation and then see how easy it is to customize its appearance and configure its behavior to tailor it to the requirements of your application. You&#8217;ll look at the configuration options and the methods exposed by each component&#8217;s API to see how these can be used to bring out the best of the library.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781847199720?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_beginning_javascript_and_css_development_with_jquery">
+<title>Beginning JavaScript and CSS Development with jQuery</title>
+<simpara><emphasis>Wrox</emphasis>
+<emphasis>By Richard York</emphasis>
+<emphasis>ISBN: 9780470227794</emphasis>
+<emphasis>May 2009</emphasis>
+<emphasis>$44.99 US</emphasis>
+<emphasis>555 pages</emphasis></simpara>
+<simpara>jQuery is a JavaScript library that helps web developers create JavaScript applications that work well in any browser. This book demonstrates how to use jQuery to reduce the amount of code you need to write and reduce the amount of testing that is required. You?ll see how separation of presentation (CSS), markup (XHTML), and script (JavaScript and Ajax) in web pages is a crucial direction in web development for creating maintainable, accessible, cost-effective web sites. The featured full-color code syntax highlighting provides you with a visual reinforcement so you can see the various pieces and parts that make up each line and section of code for each language.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780470227794?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_professional_javascript_frameworks">
+<title>Professional JavaScript Frameworks</title>
+<simpara><emphasis>Wrox</emphasis>
+<emphasis>By Leslie Michael Orchard, Ara Pehlivanian, Scott Koon &amp; Harley Jones</emphasis>
+<emphasis>ISBN: 9780470384596</emphasis>
+<emphasis>August 2009</emphasis>
+<emphasis>$44.99 US</emphasis>
+<emphasis>887 pages</emphasis></simpara>
+<simpara>As the industry-standard, must-know scripting language, JavaScript is supported by all major browsers and is increasingly the foundation of new web development technologies such as Ajax and JSON. This book offers a selection of some of the most active and most used JavaScript frameworks available, replete with practical examples and explanations of what each framework does best. You&#8217;ll look at common web development tasks and discover how each framework approaches that set of tasks, as well as learn how to use the features of each framework and avoid potential pitfalls.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780470384596?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_learning_the_yahoo_user_interface_library_get_started_and_get_to_grips_with_the_yui_javascript_development_library">
+<title>Learning the Yahoo! User Interface Library: Get started and get to grips with the YUI JavaScript development library!</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Dan Wellman</emphasis>
+<emphasis>ISBN: 9781847192325</emphasis>
+<emphasis>March 2008</emphasis>
+<emphasis>$40.49 US</emphasis>
+<emphasis>380 pages</emphasis></simpara>
+<simpara>The book is a tutorial, leading the reader first through the basics of the YUI library before moving on to more complex examples involving the YUI controls and utilities. The book is heavily example driven, and based around an approach of tinkering and extending to improve. This book covers all released components whether utility, control, core file, or CSS tool. Methods of the YAHOO Global Object are used and discussed throughout the book. The basics of each control will be presented, along with a detailed example showing its use to create complex, fully featured, cross-browser, Web 2.0 user interfaces. Besides giving you a deep understand of the YUI library, this book will expand your knowledge of object-oriented JavaScript programming, as well as strengthen your understanding of the DOM and CSS. You will learn to create a number of powerful JavaScript controls that can be used straight away in your own applications.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781847192325?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_yui_2_8_learning_the_library">
+<title>YUI 2.8 Learning the Library</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Daniel Barreiro &amp; Dan Wellman</emphasis>
+<emphasis>ISBN: 9781849510707</emphasis>
+<emphasis>June 2010</emphasis>
+<emphasis>404 pages</emphasis>
+<emphasis>$44.99 US</emphasis></simpara>
+<simpara>The book is a tutorial, leading the reader first through the basics of the YUI library before moving on to more complex examples involving the YUI controls and utilities. The book is heavily example driven, and based around an approach of tinkering and extending to improve. This book is for web developers comfortable with JavaScript and CSS, who want to use the YUI library to easily put together rich, responsive web interfaces. No knowledge of the YUI library is presumed.</simpara>
+</sect1>
+<sect1 id="_pro_javascript_with_mootools_learning_advanced_javascript_programming">
+<title>Pro JavaScript with MooTools: Learning Advanced JavaScript Programming</title>
+<simpara><emphasis>Apress</emphasis>
+<emphasis>By Mark Joseph Obcena</emphasis>
+<emphasis>ISBN: 9781430230540</emphasis>
+<emphasis>January 2010</emphasis>
+<emphasis>$44.99 US</emphasis>
+<emphasis>426 pages</emphasis></simpara>
+<simpara>This book explores the advanced features of JavaScript and how the MooTools framework uses these features to further improve the language itself. The book takes a unique three-pronged approach. It first walks you through the advanced features of JavaScript and the MooTools framework, including native augmentation and type creation, a comprehensive discussion of JavaScript functions, Object-Oriented programming with native JavaScript and MooTools Classes, and the MooTools Class internals. You&#8217;ll then learn all about Javascript in the DOM: the Elements classes and its internals, the MooTools Event system, Selector engines and MooTools Slick, Ajax and the Request Object, and Animation and the Fx classes. The final section really sets the book apart from all others, as it discusses JavaScript outside the browsers. You&#8217;ll take an in-depth look at CommonJS and MooTools, using MooTools outside the browser to build ORM, creating simple CommonJS applications via the MooTools Deck framework, and creating complex Server-Side applications using Raccoon.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781430230540?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_mootools_1_2_beginner_8217_s_guide">
+<title>MooTools 1.2 Beginner&#8217;s Guide</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Jacob Gube</emphasis>
+<emphasis>ISBN: 9781847194589</emphasis>
+<emphasis>December 2009</emphasis>
+<emphasis>280 pages</emphasis>
+<emphasis>$35.99</emphasis></simpara>
+<simpara>MooTools is a simple-to-use JavaScript library, ideal for people with basic JavaScript skills who want to elevate their web applications to a superior level. If you&#8217;re a newcomer to MooTools looking to build dynamic, rich, and user-interactive web site applications this beginner&#8217;s guide with its easy-to-follow step-by-step instructions is all you need to rapidly get to grips with MooTools. Learn how to create dynamic, interactive, and responsive cross-browser web applications using this popular JavaScript framework. You will also learn how to make your web applications more dynamic and user-interactive with AJAX. This book will help you get to grips with MooTools so that you can start to create web pages and web applications worthy of the Web 2.0 world.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781847194589?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_dojo_the_definitive_guide">
+<title>Dojo: The Definitive Guide</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Matthew A. Russell</emphasis>
+<emphasis>ISBN: 9780596516482</emphasis>
+<emphasis>June 2008</emphasis>
+<emphasis>496 pages</emphasis>
+<emphasis>$39.99 US</emphasis></simpara>
+<simpara>This book demonstrates how to tame Dojo&#8217;s extensive library of utilities so that you can build rich and responsive web applications like never before. Dojo founder Alex Russell gives a foreword that explains the "why" of Dojo and of this book. This book gives you the most thorough overview of this toolkit available, showing you everything from how to create complex layouts and form controls closely resembling those found in the most advanced desktop applications with stock widgets, to advanced JavaScript idioms to AJAX and advanced communication transports. Dojo packs the standard JavaScript library you&#8217;ve always wanted, and this book helps you transform your ideas into working applications quickly by leveraging design concepts you already know.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780596516482?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_practical_dojo_projects">
+<title>Practical Dojo Projects</title>
+<simpara><emphasis>Apress</emphasis>
+<emphasis>By Frank Zammetti</emphasis>
+<emphasis>ISBN: 9781430210665</emphasis>
+<emphasis>September 2008</emphasis>
+<emphasis>$46.99 US</emphasis>
+<emphasis>480 pages</emphasis></simpara>
+<simpara>This book by Frank Zammetti examines one of today’s most popular open source lightweight Ajax Web Frameworks, Dojo. Written by a JavaScript/Ajax industry expert who has delivered many Web applications for his clients, Frank takes a no-nonsense, down to earth and hands-on approach to using Dojo, illustrating the types of practical applications/projects Dojo can create from the ground up. The reader can take the sample applications created in this book and use these as templates for their own real world applications in practice.</simpara>
+</sect1>
+<sect1 id="_mastering_dojo_javascript_and_ajax_tools_for_great_web_experiences_pragmatic_programmers">
+<title>Mastering Dojo: JavaScript and Ajax Tools for Great Web Experiences (Pragmatic Programmers)</title>
+<simpara><emphasis>Pragmatic Programmers</emphasis>
+<emphasis>By Craig Riecke, Rawld Gill &amp; Alex Russell</emphasis>
+<emphasis>ISBN: 9781934356111</emphasis>
+<emphasis>July 2008</emphasis>
+<emphasis>$38.95 US</emphasis>
+<emphasis>555 pages</emphasis></simpara>
+<simpara>Dojo is a set of client-side JavaScript tools that help you build better web applications. Dojo blurs the line between local, native applications and browser based applications; the browser becomes the user interface platform. In this book you&#8217;ll get the whole story, from basic usage to advanced idioms. It starts out with a fast moving tutorial that will give you techniques that you can start using right away. You&#8217;ll learn all about Dojo Core&#8212;the foundation on which all things Dojo stand. You&#8217;ll love using Dojo&#8217;s HTML user interface control widget system, Dijit. See how to use over 40 widgets, including the rich yet easy-to-use tree and grid controls. You&#8217;ll even get an in-depth look at how to design and build a single-page, rich Internet Application.</simpara>
+</sect1>
+<sect1 id="_dojo_using_the_dojo_javascript_library_to_build_ajax_applications">
+<title>Dojo: Using the Dojo JavaScript Library to Build Ajax Applications</title>
+<simpara><emphasis>Prentice Hall</emphasis>
+<emphasis>By James E. Harmon</emphasis>
+<emphasis>ISBN: 9780321563132</emphasis>
+<emphasis>June 2008</emphasis>
+<emphasis>$44.99 US</emphasis>
+<emphasis>336 pages</emphasis></simpara>
+<simpara>Dojo offers Web developers and designers a powerful JavaScript toolkit for rapidly developing robust Ajax applications. Now, for the first time, there’s a complete, example-rich developer’s guide to Dojo and its growing library of prepackaged widgets. Reviewed and endorsed by the Dojo Foundation, the creators of Dojo, this book brings together all the hands-on guidance and tested code samples you need to succeed. Harmon introduces the Dojo toolkit’s powerful capabilities for simplifying Ajax development. He thoroughly explains Dojo’s helper functions, shortcuts, and special methods, illuminating each feature with examples of the JavaScript problems it can solve. All source code examples are provided on a companion Web site, including source code for a complete tutorial case study application.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780321563132?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_ext_js_in_action">
+<title>Ext JS in Action</title>
+<simpara><emphasis>Manning Publications</emphasis>
+<emphasis>By Jesus Garcia</emphasis>
+<emphasis>ISBN: 9781935182115</emphasis>
+<emphasis>December 2010</emphasis>
+<emphasis>$49.99 US</emphasis>
+<emphasis>496 pages</emphasis></simpara>
+<simpara>Ext JS combines an extensive library of super-high-quality widgets, an intuitive, extensible component model, and an easy-to-use API to create a full, rock-solid platform for JavaScript-based web apps. This book teaches you about Ext from the ground up. By following the common design patterns demonstrated in the Ext source and in many commercial applications, you learn how to achieve the same results you see in world-class commercial JavaScript applications. The book fully covers Ext utility classes, AJAX, Observable (the Ext events model), DOM helpers and Function Helpers and illustrates how use of JavaScript Object Notation (JSON), a powerful and lightweight data format, can allow your application to efficiently communicate over the network to the web server. You&#8217;ll build on this foundation to customize or extend Ext widgets.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781935182115?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_learning_ext_js_3_2">
+<title>Learning Ext JS 3.2</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Shea Frederick; Colin Ramsay; Steve <emphasis>Cutter</emphasis> Blades; Nigel White</emphasis>
+<emphasis>ISBN: 9781849511209</emphasis>
+<emphasis>October 2010</emphasis>
+<emphasis>$40.49 US</emphasis>
+<emphasis>432 pages</emphasis></simpara>
+<simpara>Ext JS is a JavaScript library that makes it (relatively) easy to create desktop-style user interfaces in a web application, including multiple windows, toolbars, drop-down menus, dialog boxes, and much more. Yet, most web developers fail to use this amazing library to its full power. This book covers all of the major features of the Ext framework using interactive code and clear explanation coupled with loads of screenshots. It will help you create rich, dynamic, and AJAX-enabled web applications that look good and perform beyond the expectations of your users. By using a series of straightforward examples backed by screenshots, this book will help you create web applications that look good and perform beyond the expectations of your users.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781849511209?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_essential_gwt_building_for_the_web_with_google_web_toolkit_2">
+<title>Essential GWT: Building for the Web with Google Web Toolkit 2</title>
+<simpara><emphasis>Addison-Wesley Professional</emphasis>
+<emphasis>By Federico Kereki</emphasis>
+<emphasis>ISBN: 9780321705143</emphasis>
+<emphasis>August 2010</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>352 pages</emphasis></simpara>
+<simpara>This book shows how to use this latest version of GWT to create production solutions that combine superior style, performance, and interactivity with exceptional quality and maintainability. Federico Kereki quickly reviews the basics and then introduces intermediate and advanced GWT skills, covering issues ranging from organizing projects to compiling and deploying final code. Throughout, he focuses on best-practice methodologies and design patterns. For example, you’ll learn how to use the MVP (model-view-presenter) pattern to improve application design and support automated testing for agile development. Kereki illuminates each concept with realistic code examples that help developers jump-start their projects and get great results more quickly. Working with the latest versions of open source tools such as Eclipse, Subversion, Apache, Tomcat, and MySQL, he demonstrates exactly how GWT fits into real Web development environments.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780321705143?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_ext_gwt_2_0_beginner_8217_s_guide">
+<title>Ext GWT 2.0 : Beginner&#8217;s Guide</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Daniel Vaughan</emphasis>
+<emphasis>ISBN: 9781849511841</emphasis>
+<emphasis>December 2010</emphasis>
+<emphasis>$35.99 US</emphasis>
+<emphasis>320 pages</emphasis></simpara>
+<simpara>This book is a practical book that teaches you how to use the EXT GWT library to its full potential. It provides a thorough and no-nonsense explanation of the Ext GWT library, what it offers and how to use it through practical examples. This book gets you up and running instantly to build powerful Rich Internet Applications (RIA) with Ext GWT. It then takes you through all the interface-building widgets and components of Ext GWT using practical examples to demonstrate when, where, and how to use each of them. You will also learn to present your data in a better way with templates and use some of the most sought-after features of Ext GWT in your web applications such as drag-and-drop and charts. Throughout the book a real application is built step by step using Ext GWT and deployed to Google App Engine.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781849511841?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_sams_teach_yourself_jquery_in_24_hours">
+<title>SAMS Teach Yourself jQuery in 24 Hours</title>
+<simpara><emphasis>SAMS</emphasis>
+<emphasis>By Steve Holzner</emphasis>
+<emphasis>ISBN: 9780672335563</emphasis>
+<emphasis>October 2011</emphasis>
+<emphasis>$34.99 US</emphasis>
+<emphasis>450 pages</emphasis></simpara>
+<simpara>In just 24 lessons of one hour or less, this book will help non-programmers leverage jQuery&#8217;s power in tasks ranging from simple effects to complex forms. Each short, easy lesson builds on all that&#8217;s come before, teaching jQuery&#8217;s latest features and add-ons from the ground up, in the context of delivering real solutions. The book carefully explains how JavaScript libraries like jQuery work, and guides you through downloading, installing, and fully utilizing jQuery. By the time you are finished, you&#8217;ll be comfortable going beyond the book to solve a wide variety of problems.</simpara>
+</sect1>
+<sect1 id="_rich_internet_applications_with_ajax_and_jquery_livelessons">
+<title>Rich Internet Applications with Ajax and jQuery LiveLessons</title>
+<simpara><emphasis>Addison-Wesley</emphasis>
+<emphasis>By Marty Hall</emphasis>
+<emphasis>ISBN: 9780132594721</emphasis>
+<emphasis>April 2011</emphasis></simpara>
+<simpara>This course gives a practical, hands-on introduction to the fundamentals of Ajax development. It covers foundational topics like JavaScript programming, core Ajax approaches, XML and JSON data handling, and Ajax development and debugging tools such as Firebug. It also covers more advanced topics like automatic JSON generation, JSON-RPC. The course gives particular attention to the jQuery toolkit covering the use jQuery&#8217;s Ajax support, and how to use the rich GUI elements provided by jQuery UI. The course emphasizes a practical, hands-on approach, and each section contains several annotated code examples.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780132594721?cid=1107-bibilio-jscript-link">See it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_sams_teach_yourself_jquery_mobile_in_10_minutes">
+<title>SAMS Teach Yourself jQuery Mobile in 10 minutes</title>
+<simpara><emphasis>SAMS</emphasis>
+<emphasis>By Steve Holzner</emphasis>
+<emphasis>ISBN: 9780672335570</emphasis>
+<emphasis>October 2011</emphasis>
+<emphasis>$24.99 US</emphasis>
+<emphasis>240 pages</emphasis></simpara>
+<simpara>This book gives a quick, practical overview of what jQuery Mobile is and how to use it in creating high quality mobile web pages that can be viewed on a wide variety of platforms. By working through the 10-minute lessons, you learn everything you need to know to quickly and easily get up to speed with jQuery Mobile.This book will provide programmers with fast at-a-glance tips pointing out helpful shortcuts and solutions, cautions to help avoid common jQuery Mobile pitfalls, and is written in a clear, easy-to-understand format.</simpara>
+</sect1>
+<sect1 id="_practical_prototype_and_script_aculo_us_expert_8217_s_voice_in_web_development">
+<title>Practical Prototype and script.aculo.us (Expert&#8217;s Voice in Web Development)</title>
+<simpara><emphasis>Apress</emphasis>
+<emphasis>By Andrew Dupont</emphasis>
+<emphasis>ISBN: 9781590599198</emphasis>
+<emphasis>June 2008</emphasis></simpara>
+</sect1>
+<sect1 id="_applied_jquery_develop_and_design">
+<title>Applied jQuery: Develop and Design</title>
+<simpara><emphasis>Peachpit Press</emphasis>
+<emphasis>By _
+_ISBN: 9780132767323</emphasis>
+<emphasis>August 2011</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>350 pages</emphasis></simpara>
+<simpara>Prototype and its sister effects library, script.aculo.us, are two of the most popular JavaScript libraries/frameworks available – they are add-ons to JavaScript, which give JavaScript developers prebuilt functionality to play with, and speed up development time. And now Apress has collaborated with Andrew Dupont, one of the Prototype core development team members, to create Practical Prototype and script.aculo.us. This book is an essential guide for any JavaScript developer wanting to learn every major facet of Prototype/script.aculo.us quickly and effectively.</simpara>
+</sect1>
+<sect1 id="_head_first_jquery">
+<title>Head First jQuery</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Ryan Benedetti, Ronan Cranley</emphasis>
+<emphasis>ISBN: 9781449393212</emphasis>
+<emphasis>September 2011</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>450 pages</emphasis></simpara>
+<simpara>Want to add more interactivity and polish to your websites? Discover how jQuery can help you build complex scripting functionality in just a few lines of code. With this book, you&#8217;ll quickly get up to speed on this amazing JavaScript library by learning how to navigate HTML documents while handling events, effects, callbacks, and animations. By the time you&#8217;ve completed the book, you&#8217;ll be incorporating Ajax apps, working seamlessly with HTML and CSS, and building your own plug-ins. If you want to learn—and understand—how to create interactive web pages, unobtrusive script, and cool animations that don&#8217;t kill your browser, this book is for you.</simpara>
+</sect1>
+<sect1 id="_javascript_and_jquery_the_missing_manual">
+<title>JavaScript and jQuery: The Missing Manual</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By David Sawyer McFarland</emphasis>
+<emphasis>ISBN: 9781449399023</emphasis>
+<emphasis>October 2011</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>600 pages</emphasis></simpara>
+<simpara>You don&#8217;t need programming experience to add interactive and visual effects to your web pages with JavaScript. This Missing Manual shows you how the jQuery library makes JavaScript programming fun, easy, and accessible to web designers at every level of experience. You&#8217;ll quickly learn how to use jQuery to help your site run smoothly and look great across multiple web browsers. In this entertaining, jargon-free book, bestselling author David McFarland teaches you how to create dynamic web pages without typing a lot of code.</simpara>
+</sect1>
+</chapter>
+<chapter id="_mobile_javascript">
+<title>Mobile JavaScript</title>
+<sect1 id="_building_iphone_apps_with_html_css_and_javascript">
+<title>Building iPhone Apps with HTML, CSS, and JavaScript</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Jonathan Stark</emphasis>
+<emphasis>ISBN: 9781449380236</emphasis>
+<emphasis>January 2010</emphasis>
+<emphasis>$29.99 US</emphasis>
+<emphasis>192 pages</emphasis></simpara>
+<simpara>It&#8217;s a fact: if you know HTML, CSS, and JavaScript, you already have the tools you need to develop your own iPhone apps. With this book, you&#8217;ll learn how to use these open source web technologies to design and build apps for both the iPhone and iPod Touch, on the platform of your choice&#8201;&#8212;&#8201;without using Objective-C, Xcode, or Interface Builder. Device-agnostic apps are the wave of the future, especially for mobile devices, and this book shows you how to create one product that can be used on several platforms. You&#8217;ll get guidelines for quickly converting your product into a native iPhone app, using the free PhoneGap framework. And you&#8217;ll learn why releasing your product as a web app first helps you find, fix, and test bugs much faster than if you went straight to the App Store with a product built with Apple&#8217;s tools.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781449380236?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_beginning_iphone_and_ipad_web_apps_scripting_with_html5_css3_and_javascript">
+<title>Beginning iPhone and iPad Web Apps: Scripting with HTML5, CSS3, and JavaScript</title>
+<simpara><emphasis>Apress</emphasis>
+<emphasis>By Chris Apers &amp; Daniel Paterson</emphasis>
+<emphasis>ISBN: 9781430230458</emphasis>
+<emphasis>November 2010</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>508 pages</emphasis></simpara>
+<simpara>This book takes you through every aspect of the latest Mobile Web Standards as well as the specific features of the iPhone and iPad. You&#8217;ll go beyond Web 2.0 and Ajax to learn about WebKit and Mobile Safari, HTML5 and CSS3, Vector Graphics and Multimedia support. You&#8217;ll discover what built-in hardware features of the iPhone and iPad you can use and how to take advantage of these device-specific capabilities. The market for Web apps is expanding and the combination of iPhone and iPad makes this a very hot area—as well as a competitive one. You&#8217;ll want to know about all the advantages available to get ahead and stay ahead, and this book is the perfect starting point.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781430230458?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_building_android_apps_with_html_css_and_javascript">
+<title>Building Android Apps with HTML, CSS, and JavaScript</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Jonathan Stark</emphasis>
+<emphasis>ISBN: 9781449399122</emphasis>
+<emphasis>October 2010</emphasis>
+<emphasis>$29.99 US</emphasis>
+<emphasis>184 pages</emphasis></simpara>
+<simpara>If you know HTML, CSS, and JavaScript, you already have the tools you need to develop Android apps. With this book, you&#8217;ll learn how to use these web technologies to design and build apps for any Android device, using the framework of your choice. No knowledge of Java is required.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781449399122?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_pro_android_web_apps_develop_for_android_using_html5_css3_amp_javascript">
+<title>Pro Android Web Apps: Develop for Android Using HTML5, CSS3 &amp; JavaScript</title>
+<simpara><emphasis>Apress</emphasis>
+<emphasis>By Damon Oehlman &amp; Sébastien Blanc</emphasis>
+<emphasis>ISBN: 9781430232766</emphasis>
+<emphasis>January 2011</emphasis>
+<emphasis>$44.99 US</emphasis>
+<emphasis>392 pages</emphasis></simpara>
+<simpara>Developing applications for Android and other mobile devices using web technologies is now well within reach. When the capabilities of HTML5 are combined with CSS3 and Javascript, web application developers have an opportunity to develop compelling mobile applications using familiar tools. This book teaches developers already familiar with web application development, how to code and structure a web app for use on the Android mobile platform. After reading this book, you will not only have a greater understanding of the world of web apps on Android, but also how to leverage additional tools and frameworks to increase the reach of your mobile web apps. Additionally, through the practical samples in the book you will have been given solid exposure of where both the opportunities and challenges lie when building mobile apps the web way.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781430232766?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_beginning_smartphone_web_development_building_javascript_css_html_and_ajax_based_applications_for_iphone_android_palm_pre_blackberry_windows_mobile_and_nokia_s60">
+<title>Beginning Smartphone Web Development: Building JavaScript, CSS, HTML and Ajax-based Applications for iPhone, Android, Palm Pre, BlackBerry, Windows Mobile, and Nokia S60</title>
+<simpara><emphasis>Apress</emphasis>
+<emphasis>By Gail Frederick</emphasis>
+<emphasis>ISBN: 9781430226208</emphasis>
+<emphasis>January 2010</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>368 pages</emphasis></simpara>
+<simpara>The mobile Web has become incredibly popular given the success of the iPhone and BlackBerry, the importance of Windows Mobile, and the emergence of Palm Pre (and its webOS platform). Gail Frederick of the well-known training site Learn the Mobile Web offers her expert advice in this book. She teaches the web standards and fundamentals specific to smartphones and other feature-driven mobile phones and devices. By the end of this book, you’ll have the training, tools, and techniques for creating robust mobile web experiences on any of these platforms for your favorite smartphone or other mobile device.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781430226208?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_the_web_designer_s_guide_to_ios_apps_create_iphone_ipod_touch_and_ipad_apps_with_web_standards_html5_css3_and_javascript">
+<title>The Web Designer’s Guide to iOS Apps: Create iPhone, iPod touch, and iPad Apps with Web Standards (HTML5, CSS3, and JavaScript)</title>
+<simpara><emphasis>New Riders</emphasis>
+<emphasis>By Kristofer Layon</emphasis>
+<emphasis>ISBN: 9780132562829</emphasis>
+<emphasis>December 2010</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>288 pages</emphasis></simpara>
+<simpara>This book teaches web designers how to use HTML, CSS, and JavaScript to build native iPhone, iPod Touch, and iPad applications.  By leveraging their existing skills, web designers can do the same specialized and content-specific work for new platforms. And by combining these skills with a code framework that allows them to bypass the need to learn a lot of Objective-C programming, web designers can focus exclusively on interface and content design. This results in better products for clients and their customers, and also saves the designer both time and money.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780132562829?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_programming_the_mobile_web">
+<title>Programming the Mobile Web</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Maximiliano Firtman</emphasis>
+<emphasis>ISBN: 9780596807788</emphasis>
+<emphasis>October 2011</emphasis>
+<emphasis>$49.99 US</emphasis>
+<emphasis>512 pages</emphasis></simpara>
+<simpara>Today&#8217;s market for mobile apps goes beyond the iPhone to include BlackBerry, Nokia, Windows Phone, and smartphones powered by Android, webOS, and other platforms. If you&#8217;re an experienced web developer, this book shows you how to build a standard app core that you can extend to work with specific devices. You&#8217;ll learn the particulars and pitfalls of building mobile apps with HTML, CSS, and other standard web tools. You&#8217;ll also explore platform variations, finicky mobile browsers, Ajax design patterns for mobile, and much more. Before you know it, you&#8217;ll be able to create mashups using Web 2.0 APIs in apps for the App Store, App World, OVI Store, Android Market, and other online retailers.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9780596807788?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_jquery_mobile_up_and_running">
+<title>jQuery Mobile: Up and Running</title>
+<simpara><emphasis>O’Reilly Media</emphasis>
+<emphasis>By Maximiliano Firtman</emphasis>
+<emphasis>ISBN:  9781449397654</emphasis>
+<emphasis>October 2011</emphasis>
+<emphasis>$29.99 US</emphasis>
+<emphasis>250 pages</emphasis></simpara>
+<simpara>This introductory tutorial shows you how to use the jQuery Mobile library to build websites and apps for touch devices such as iPhone, iPad, Android, and BlackBerry. Learn the best way to apply this library&#8217;s many interface components through a series of hands-on exercises. By the end of the book, you&#8217;ll have built a complete working mobile application for multiple smartphone and tablet platforms using Web 2.0 APIs and semantic HTML5 code ready for app store distribution. You don’t need programming skills or previous experience with jQuery or HTML5 to get started. This book shows you exactly what you need to know.</simpara>
+</sect1>
+</chapter>
 </book>
