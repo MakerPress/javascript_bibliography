@@ -1,0 +1,230 @@
+== Advanced JavaScript topics
+
+
+=== JavaScript: The Definitive Guide
+
+_O'Reilly Media_
+_By David Flanagan_
+_ISBN: 9781449393854_
+_May 2011_
+_$49.99 US_
+_1,100 pages_
+
+Whether you need an example-driven programmer's guide or a complete desk reference, this is the most authoritative book on the language that runs the Web. The sixth edition offers comprehensive coverage of ECMAScript 5 (the new language standard) and also the new APIs introduced in HTML5. The chapters on functions and classes have been completely rewritten and updated to match current best practices. A new chapter covers language extensions and subsets.
+
+_http://my.safaribooksonline.com/book/programming/javascript/9781449393854?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
+
+===  JavaScript: The Good Parts
+
+_O'Reilly Media_
+_By Douglas Crockford_
+_ISBN: 9780596517748_
+_May 2008_
+_$29.99 US_
+_176 pages_
+
+Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole--a subset you can use to create truly extensible and efficient code. The JavaScript expert Douglas Crockford identifies the abundance of good ideas that make JavaScript an outstanding object-oriented programming language--ideas such as functions, loose typing, dynamic objects, and an expressive object literal notation. Unfortunately, these good ideas are mixed in with bad and downright awful ideas, like a programming model based on global variables. When Java applets failed, JavaScript became the language of the Web by default, making its popularity almost completely independent of its qualities as a programming language. In this book Crockford finally digs through the steaming pile of good intentions and blunders to give you a detailed look at all the genuinely elegant parts of JavaScript.
+
+_http://my.safaribooksonline.com/book/programming/javascript/9780596517748?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
+
+=== JavaScript Patterns
+
+_O'Reilly Media_
+_By Stoyan Stefanov_
+_ISBN: 9781449399115_
+_September 2010_
+_$29.99 US_
+_240 pages_
+
+Now that JavaScript plays such a key role in modern websites, programmers who once dismissed it as a language for amateurs find themselves immersed in JavaScript code. JavaScript Patterns identifies key problem areas you might face when working with the language, and provides design patterns and coding patterns as solutions. Author Stoyan Stefanov includes several examples for each pattern as well as practical advice for implementing it.
+
+_http://my.safaribooksonline.com/book/programming/javascript/9781449399115?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
+
+=== High Performance JavaScript
+
+_O'Reilly Media, Inc._
+_By Nicholas C. Zakas_
+_ISBN: 9781449382308_
+_March 2010_
+_$34.99 US_
+_240 pages_
+
+If you're like most developers, you rely heavily on JavaScript to build interactive and quick-responding web applications. The problem is that all of those lines of JavaScript code can slow down your apps. This book reveals techniques and strategies to help you eliminate performance bottlenecks during development. You'll learn optimal ways to load code onto a page, programming tips to help your JavaScript run as efficiently and quickly as possible, best practices to build and deploy your files to a production environment, and more.
+
+_http://my.safaribooksonline.com/book/programming/javascript/9781449382308?cid=1107-bibilio-jscript-link[Read it on Safari Books Onilne]_
+
+=== Secrets of the JavaScript Ninja
+
+_Manning Publications_
+_By John Resig & Bear Bibeault_
+_ISBN: 9781933988696_
+_December 2011_
+_$39.99_
+_300 pages_
+
+In this book, JavaScript expert John Resig reveals the inside know-how of the elite JavaScript programmers. Written to be accessible to JavaScript developers with intermediate-level skills, this book will give you the knowledge you need to create a cross-browser JavaScript library from the ground up. This book examines all of the numerous tasks JavaScript libraries have to tackle and provides practical solutions and development strategies for their creation. It then guides you through the various maintenance techniques you will need to keep your code running well into the future.
+
+=== ppk on JavaScript
+
+_New Riders_
+_By Peter-Paul Koch_
+_ISBN: 9780321423306_
+_September 2006_
+_$44.99 US_
+_528 pages_
+
+Other JavaScript books use example scripts that have little bearing on real-world Web development and are useful only in the chapter at hand. In contrast, this book uses eight real-world scripts Peter-Paul Koch created for real-world clients in order to earn real-world money. That means the scripts are guaranteed to do something useful (and sellable!) that enhances the usability of the page they're used on. After an overview of JavaScript's purpose, Peter-Paul provides theoretical chapters on the context (jobs for JavaScript, CSS vs. JavaScript), the browsers (debugging, the arcana of the browser string), and script preparation. Then follow practical chapters on Core, BOM, Events, DOM, CSS Modification, and Data Retrieval, all of which are explained through a combination of theoretical instruction and the taking apart of the relevant sections of the example scripts.
+
+_http://my.safaribooksonline.com/book/programming/javascript/0321423305?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
+
+=== Test-Driven JavaScript Development
+
+_Addison-Wesley Professional_
+_By Christian Johansen_
+_ISBN: 9780321684097_
+_September 2010_
+_$49.99_
+_600 pages_
+
+This book is a complete, best-practice guide to agile JavaScript testing and quality assurance with the test-driven development (TDD) methodology. Leading agile JavaScript developer Christian Johansen covers all aspects of applying state-of-the-art automated testing in JavaScript environments, walking readers through the entire development lifecycle, from project launch to application deployment, and beyond. Using real-life examples driven by unit tests, Johansen shows how to use TDD to gain greater confidence in your code base, so you can fearlessly refactor and build more robust, maintainable, and reliable JavaScript code at lower cost. Throughout, he addresses crucial issues ranging from code design to performance optimization, offering realistic solutions for developers, QA specialists, and testers.
+
+_http://my.safaribooksonline.com/book/programming/javascript/9780321684097?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
+
+=== Node: Up and Running: Scalable Server-Side Code with JavaScript
+
+_O'Reilly Media_
+_By Tom Hughes-Croucher_
+_ISBN: 9781449398583_
+_September 2011_
+_$34.99_
+_200 pages_
+
+This book introduces you to Node, the new web development framework written in JavaScript. You'll learn hands-on how Node makes life easier for experienced JavaScript developers: not only can you work on the front end and back end in the same language, you'll also have more flexibility in choosing how to divide application logic between client and server. Written by a core contributor to the framework, this book shows you how Node scales up to support large numbers of simultaneous connections across multiple servers, and scales down to let you create quick one-off applications with minimal infrastructure. Built on the V8 JavaScript engine that runs Google Chrome, Node is already winning the hearts and minds of many companies, including Google and Yahoo! This book shows you why.
+
+=== Object-Oriented JavaScript: Create scalable, reusable high-quality JavaScript applications, and libraries
+
+_Packt Publishing_
+_By Stoyan Stefanov_
+_ISBN: 9781847194145_
+_July 2008_
+_$35.99 US_
+_356 pages_
+
+This book treats JavaScript as a serious object-oriented language, showing you how to build robust, maintainable, and powerful libraries and applications. Along the way, we cover many of the recent innovations such as AJAX, JSON, and interesting design and coding patterns. After reading this book, you'll be prepared to ace your JavaScript job interview and even impress with some bits that the interviewer maybe didn't know. You should read this book if you want to be able to take your JavaScript skills to a new level of sophistication.
+
+_http://my.safaribooksonline.com/book/programming/javascript/9781847194145?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
+
+=== Professional, JavaScript for Web Developers, Second Edition
+
+_Wrox_
+_By Nicholas C. Zakas_
+_ISBN: 9780470227800_
+_$49.99 US_
+_836 pages_
+
+This eagerly anticipated update to the breakout book on JavaScript offers you an in-depth look at the numerous advances to the techniques and technology of the JavaScript language. You'll see why JavaScript's popularity continues to grow while you delve through topics such as debugging tools in Microsoft Visual Studio, FireBug, and Drosera; client-side data storage with cookies, DOM storage, and client-side databases; HTML 5, ECMAScript 3.1, the Selectors API; and design patterns including creational, structural, and behavorial patterns.
+
+_http://my.safaribooksonline.com/book/programming/javascript/9780470227800?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
+
+=== Pro JavaScript Techniques
+
+_Apress_
+_By John Resig_
+_ISBN: 9781590597279_
+_December 2006_
+_$44.99 US_
+_384 pages_
+
+This is the ultimate JavaScript book for the modern web developer. It provides everything you need to know about modern JavaScript, and shows what JavaScript can do for your web sites. This book doesn’t waste any time looking at things you already know, like basic syntax and structures. Expert web developer and author John Resig concentrates on fundamental, vital topics, what modern JavaScripting is (and isnt), the current state of browser support, and pitfalls to be wary of.
+
+_http://my.safaribooksonline.com/book/programming/javascript/9781590597279?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
+
+=== Pro JavaScript Design Patterns
+
+_Apress_
+_By Ross Harmes & Dustin Diaz_
+_ISBN: 9781590599082_
+_December 2007_
+_$44.99 US_
+_269 pages_
+
+With this book you'll start with the basics of object-oriented programming in JavaScript applicable to design patterns, including making JavaScript more expressive, inheritance, encapsulation, information hiding, and more. With that covered, you can kick-start your JavaScript development in the second part of the book, where you'll find detail on how to implement and take advantage of several design patterns in JavaScript, including composites, decorators, façades, adapters, and many more. Each chapter is packed with real-world examples of how the design patterns are best used and expert advice on writing better code, as well as what to watch out for. Along the way you'll discover how to create your own libraries and APIs for even more efficient coding.
+
+_http://my.safaribooksonline.com/book/programming/javascript/9781590599082?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
+
+=== Advanced JavaScript
+
+_Jones & Bartlett Learning_
+_By Chuck Easttom_
+_ISBN: 9781598220339_
+_August 2008_
+_$39.95 US_
+_591 pages_
+
+This book provides an in-depth examination of the most important features of JavaScript. Beginning with an overview of JavaScript, the book quickly moves into more advanced features needed for complex yet robust JavaScript scripts, such as objects, arrays, and date and time functions. Additionally, various features of JavaScript that are essential for modern web pages are discussed, including manipulating the status bar, creating dynamic calendars, and working with forms, images, and the Document Object Model. Learn how to enhance your web pages with LED signs, banners, and images Implementing cookies to store and retrieve information. The structure of the Document Object Model and how it can be used to view, access, and change an HTML document Security is also covered.
+
+_http://my.safaribooksonline.com/book/programming/javascript/9781598220339?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
+
+=== Developing JavaScript Web Applications
+
+_O'Reilly Media, Inc._
+_By Alex MacCaw_
+_ISBN: 9781449308216_
+_September 2011_
+_$34.99  US_
+_250 pages_
+
+Building rich JavaScript applications that bring the desktop experience to the Web is now possible, thanks to powerful JavaScript engines and the CSS3 and HTML5 specifications. This book takes you through all the steps necessary to create state-of-the-art JavaScript applications, including structure, templating, frameworks, communicating with the server, and many other issues. Through practical, tutorial-based explanations, you learn how to create JavaScript applications that offer a much more responsive and improved experience.  Learn about major frameworks and libraries, including jQuery, JavaScriptMVC and Backbone.
+
+_http://my.safaribooksonline.com/book/programming/javascript/9781449308216?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
+
+=== JavaScript Testing Beginner's Guide : Test and Debug JavaScript the Easy Way
+
+_Packt Publishing _
+_By Liang Yuxian Eugene_
+_ISBN: 9781849510004_
+_August 2010_
+_$44.99 US_
+_272 pages_
+
+This book is organized such that only the most essential information is provided to you in each chapter so as to maximize your learning. Examples and tutorials are given in an easy to follow, step-by-step manner so that you can see how the testing process is being carried out and how the code is being written. The source code also contains detailed explanation so that you know what the code is doing. Multiple screenshots are used in places that matter so that you have a visual sense of what is happening. This book is for beginner JavaScript developers looking for essential ways to write, test, and debug JavaScript for different purposes and situations.
+
+=== High Performance Web Sites
+
+_O'Reilly Media_
+_By Steve Souders_
+_ISBN: 9780596529307_
+_September 2007_
+_$29.99 US_
+_176 pages_
+
+Want your web site to display more quickly? This book presents 14 specific rules that will cut 25% to 50% off response time when users request a page. Author Steve Souders, in his job as Chief Performance Yahoo!, collected these best practices while optimizing some of the most-visited pages on the Web. Even sites that had already been highly optimized, such as Yahoo! Search and the Yahoo! Front Page, were able to benefit from these surprisingly simple performance guidelines. The rules in High Performance Web Sites explain how you can optimize the performance of the Ajax, CSS, JavaScript, Flash, and images that you've already built into your site -- adjustments that are critical for any rich web application. If you're building pages for high traffic destinations and want to optimize the experience of users visiting your site, this book is indispensable.
+
+_http://my.safaribooksonline.com/book/programming/javascript/9780596529307?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
+
+=== Even Faster Web Sites
+
+_O'Reilly Media_
+_By Steve Souders_
+_ISBN: 9780596522308_
+_June 2009_
+_$34.99 US_
+_256 pages_
+
+Performance is critical to the success of any web site, and yet today's web applications push browsers to their limits with increasing amounts of rich content and heavy use of Ajax. In this book, Steve Souders, web performance evangelist at Google and former Chief Performance Yahoo!, provides valuable techniques to help you optimize your site's performance. In this book Souders and eight expert contributors provide best practices and pragmatic advice for improving your site's performance in three critical categories: JavaScript, Network and Browser. Speed is essential for today's rich media web sites and Web 2.0 applications. With this book, you'll learn how to shave precious seconds off your sites' load times and make them respond even faster.
+
+_http://my.safaribooksonline.com/book/programming/javascript/9780596522308?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
+
+=== Supercharged JavaScript Graphics
+
+_O'Reilly Media_
+_By Raffaele Cecco_
+_ISBN: 9781449393632_
+_July 2011_
+_$39.99 US_
+_258 pages_
+
+
+Thanks to improved web browser support and the advent of HTML5, JavaScript now plays a major role in programming high-performance web graphics. This hands-on book shows you how to create rich web applications for big-screen computers and small-screen mobile devices using JavaScript, jQuery, DHTML, and HTML5's Canvas element—without plugins. By following real-world examples, experienced web developers will learn fun and useful approaches to arcade games, DHTML effects, business dashboards, and more. This book provides a gentle learning curve by serving complex subjects in easily digestible pieces, with each topic acting as a foundation for the next. Learn how to take advantage of JavaScript's growing power and speed to build a new generation of user experiences.
+
+_http://my.safaribooksonline.com/book/programming/javascript/9781449393632?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
