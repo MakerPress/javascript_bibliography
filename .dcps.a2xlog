@@ -20,4 +20,4 @@ asciidoc: book.asc: line 12: reading: /work/tools/svn_hooks/checkouts/externalau
 asciidoc: book.asc: line 14: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter3.asciidoc
 asciidoc: book.asc: line 16: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter4.asciidoc
 asciidoc: book.asc: line 18: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter5.asciidoc
-Fri Jul  8 15:21:39 EDT 2011
+Fri Jul  8 15:24:08 EDT 2011
