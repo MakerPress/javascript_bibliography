@@ -14,10 +14,10 @@ asciidoc: book.asc: line 2: macro redefinition:
 asciidoc: book.asc: line 2: macro redefinition: #
 asciidoc: writing: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/book.dcpsgen.xml
 asciidoc: book.asc: line 2: evaluating: {include:/work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/book-docinfo.xml}
-asciidoc: WARNING: book.asc: line 8: include file not found: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_introduction.asciidoc
-asciidoc: WARNING: book.asc: line 10: include file not found: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter1.asciidoc
-asciidoc: WARNING: book.asc: line 12: include file not found: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter2.asciidoc
-asciidoc: WARNING: book.asc: line 14: include file not found: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter3.asciidoc
-asciidoc: WARNING: book.asc: line 16: include file not found: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter4.asciidoc
-asciidoc: WARNING: book.asc: line 18: include file not found: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter5.asciidoc
-Fri Jul  8 14:44:40 EDT 2011
+asciidoc: book.asc: line 8: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_introduction.asciidoc
+asciidoc: book.asc: line 10: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter1.asciidoc
+asciidoc: book.asc: line 12: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter2.asciidoc
+asciidoc: book.asc: line 14: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter3.asciidoc
+asciidoc: book.asc: line 16: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter4.asciidoc
+asciidoc: book.asc: line 18: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter5.asciidoc
+Fri Jul  8 15:00:22 EDT 2011
