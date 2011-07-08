@@ -4,10 +4,15 @@
 === Ajax: The Definitive Guide
 
 _O'Reilly Media_
+
 _By Anthony T. Holdener III_
+
 _ISBN: 9780596528386_
+
 _February 2008_
+
 _$49.99 US_
+
 _992 pages_
 
 Is Ajax a new technology, or the same old stuff web developers have been using for years? Both, actually. This book demonstrates not only how tried-and-true web standards make Ajax possible, but how these older technologies allow you to give sites a decidedly modern Web 2.0 feel.  This book explains how to use standards like JavaScript, XML, CSS, and XHTML, along with the XMLHttpRequest object, to build browser-based web applications that function like desktop programs. You get a complete background on what goes into today's web sites and applications, and learn to leverage these tools along with Ajax for advanced browser searching, web services, mashups, and more. You discover how to turn a web browser and web site into a true application, and why developing with Ajax is faster, easier and cheaper.
@@ -17,10 +22,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780596528386?cid=1
 === DOM Scripting: Web Design with JavaScript and the Document Object Model, Second Edition
 
 _friends of ED_
+
 _By Jeremy Keith & Jeffrey Sambells_
+
 _ISBN: 9781430233893_
+
 _December 2010_
+
 _$34.99 US_
+
 _330 pages_
 
 There are three main technologies married together to create usable, standards-compliant web designs: XHTML for data structure, Cascading Style Sheets for styling your data, and JavaScript for adding dynamic effects and manipulating structure on the fly using the Document Object Model. This book is about the latter of the three. This book gives you everything you need to start using JavaScript and the Document Object Model to enhance your web pages with client-side dynamic effects. We start off by giving you a basic crash course in JavaScript and the DOM, then move on to provide you with several real world examples built up from scratch including dynamic image galleries and dynamic menus, and show you how to manipulate web page styles using the CSS DOM, and create markup on the fly.
@@ -30,10 +40,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781430233893?cid=1
 === Scriptin’ with JavaScript and Ajax: A Designer’s Guide
 
 _New Riders_
+
 _By Charles Wyke-Smith_
+
 _ISBN: 9780321678539_
+
 _August 2009_
+
 _$44.99 US_
+
 _312 pages_
 
 JavaScript is the brains of your Web page—it enables you to modify a document’s structure, styling, and content in response to user actions without requesting new pages from the server. This book teaches you how to master this powerful and elegant language so you can develop intuitive user interactions that take the user experience to new levels of sophistication and responsiveness. Today’s application-like Web experiences (such as Salesforce.com and Google Maps) and Web 2.0 sites (such as Flickr.com and Twitter) are powered by JavaScript and Ajax. Using the techniques shown in this book, you will be able to start creating similar experiences in the sites you design.
@@ -43,10 +58,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780321678539?cid=1
 === Practical JavaScript, DOM Scripting and Ajax Projects
 
 _Apress_
+
 _By Frank Zammetti_
+
 _ISBN: 9788181287137_
+
 _April 2007_
+
 _576 pages_
+
 _$44.99 US_
 
 This book is ideal for web developers already experienced in JavaScript who want to take their knowledge to the next level. It presents 10 complete example projects for you to learn from and adapt for use in your own work. The book starts with a quick recap of the fundamentals of modern JavaScript development before moving right along to the applications. For each application, you are taken through the planning, design, and implementation stages. Over the course of the book, author Frank Zammetti covers JavaScript best practices, Ajax techniques, and some of the most popular JavaScript libraries, such as Prototype, Script.aculo.us, and the Yahoo YUI. One of the main premises of this book is to help you learn by example so you can then apply your knowledge to your own projects. This book will save you countless hours of development time and help further your JavaScript knowledge!
@@ -54,10 +74,15 @@ This book is ideal for web developers already experienced in JavaScript who want
 === Accelerated DOM Scripting with Ajax, APIs, and Libraries
 
 _Apress_
+
 _By Jonathan Snook, Aaron Gustafson, Stuart Langridge, Dan Webb_
+
 _ISBN: 9781590597644_
+
 _September 2007_
+
 _$39.99 US_
+
 _221 pages_
 
 If you're a web developer with previous JavaScript and DOM scripting experience, this book is perfect for you to take your knowledge up to the next level. By reading this book, you should have a greater understanding of how JavaScript works and be able to use advanced concepts such as closures and event delegation to build more flexible applications for the Web. You'll walk away with a greater appreciation for JavaScript libraries and how they can simplify and speed up your development. You'll also be able to implement Ajax effectively into your site, create special effects, use JavaScript libraries, and know how best to apply these libraries to your projects.
@@ -67,10 +92,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781590597644?cid=1
 === Professional Ajax, 2nd Edition
 
 _Wrox_
+
 _By Nicholas C. Zakas, Jeremy McPeak & Joe Fawcett_
+
 _ISBN: 978-0470109496_
+
 _March 2007_
+
 _$39.99 US_
+
 _623 pages_
 
 Professional Ajax 2nd Edition provides a developer-level tutorial of Ajax techniques, patterns, and use cases. It is written for Web application developers looking to enhance the usability of their web sites and web applications and intermediate JavaScript developers looking to further understand the language. Readers should have familiarity with XML, XSLT, Web Services, PHP or C#, HTML, CSS. This book is not aimed at beginners without a basic understanding of the aforementioned technologies. Also, a good understanding of JavaScript is vitally important to understanding this book.
@@ -80,10 +110,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780470109496?cid=1
 ==== Murach's JavaScript and DOM Scripting (Murach: Training & Reference)
 
 _Mike Murach & Associates_
+
 _By Ray Harris_
+
 _ISBN: 9781890774554_
+
 _August 2009_
+
 _$54.50 US_
+
 _764 pages_
 
 Want to create websites that deliver the fast response times, dynamic user interfaces, and special effects that today's users expect? Then this is the book for you! Whether you're just starting out in JavaScript or whether you're ready to move into DOM scripting, it gives you the skills you need. The first half of this book is a course in JavaScript essentials. Then, the second half is a course in DOM scripting that gives you a clear understanding of how DOM scripting works, how JavaScript underlies it, and how to use it to build applications that run slide shows, use drop-down menus, rotate headlines, sort tables, provide animation, and more! That means you can gain basic to expert skills in a single book. So don't wait to become an expert web developer, get started on this book. 
@@ -91,10 +126,15 @@ Want to create websites that deliver the fast response times, dynamic user inter
 === JavaScript and AJAX for Dummies
 
 _For Dummies_
+
 _By Andy Harris_
+
 _ISBN: 9780470417997_
+
 _December 2009_
+
 _$29.99 US_
+
 _496 pages_
 
 If you want to build Web pages that offer real value to your site's visitors, JavaScript and AJAX are top tools for the job. Even if you're new to Web programming, this book helps you create sites any designer will admire. With easy-to-understand steps and an emphasis on free tools, you'll be able to jump right into building a site using the same techniques as the pros.
@@ -104,22 +144,31 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780470417997?cid=1
 === JavaScript and Ajax for the Web: Visual QuickStart Guide, Seventh Edition
 
 _Peachpit Press_
+
 _Tom Negrino & Dori Smith_
+
 _ISBN: 9780321564085_
+
 _October 2008_
+
 _$39.99 US_
+
 _544 pages_
 
 This task-based, visual reference guide has been fully revised. It uses step-by-step instructions and plenty of screenshots to give beginning and intermediate Web designers what they need to know to learn JavaScript. Readers can start from the beginning to get a tour of the programming language, or look up specific tasks to learn just what they need to know. In this updated seventh edition, readers will find new information on Ajax design and modern coding techniques.
 
-__http://my.safaribooksonline.com/book/programming/javascript/9780321602688?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
+_http://my.safaribooksonline.com/book/programming/javascript/9780321602688?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
 
 === Ajax Design Patterns
 
 _O'Reilly Media_
+
 _By Michael Mahemoff_
+
 _ISBN: 9780596101800_
+
 _$44.99 US_
+
 _656 pages_
 
 Ajax, or Asynchronous JavaScript and XML, exploded onto the scene in the spring of 2005 and remains the hottest story among web developers. With its rich combination of technologies, Ajax provides a strong foundation for creating interactive web applications with XML or JSON-based web services by using JavaScript in the browser to process the web server response. This book shows you best practices that can dramatically improve your web development projects. It investigates how others have successfully dealt with conflicting design principles in the past and then relays that information directly to you. This book will also get you up to speed with core Ajax technologies, such as XMLHttpRequest, the DOM, and JSON. Technical discussions are followed by code examples so you can see for yourself just what is-and isn't-possible with Ajax. This handy reference will help you to produce high-quality Ajax architectures, streamline web application performance, and improve the user experience.
@@ -129,9 +178,13 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780596101800?cid=1
 === Adding Ajax
 
 _O'Reilly Media_
+
 _By Shelley Powers_
+
 _ISBN: 9780596529369_
+
 _$34.99 US_
+
 _400 pages_
 
 Ajax can bring many advantages to an existing web application without forcing you to redo the whole thing. This book explains how you can add Ajax to enhance, rather than replace, the way your application works. For instance, if you have a traditional web application based on submitting a form to update a table, you can enhance it by adding the capability to update the table with changes to the form fields, without actually having to submit the form. That's just one example. This book is for those of you more interested in extending existing applications than in creating Rich Internet Applications (RIA). You already know the "business-side" of applications-web forms, server-side driven pages, and static content-and now you want to make your web pages livelier, more fun, and much more interactive. 
@@ -141,9 +194,13 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780596529369?cid=1
 === Unobtrusive Ajax
 
 _O'Reilly Media_
+
 _By Jesse Skinner_
+
 _ISBN: 9780596557492_
+
 _$9.99 US_
+
 _57 pages_
 
 This book is about making web applications that work for everyone all of the time, even if you have JavaScript turned off, or you're using a mobile phone or a screen reader, or however you happen to be using the Web. It's about the separation of behavior (JavaScript), content (HTML), and presentation (CSS). This short cut will focus on the practical benefits of using Ajax and JavaScript unobtrusively and show you that unobtrusive web development and progressive enhancement benefit both web developers and users of the Web. You'll get to see many simple examples of building web interfaces that are unobtrusive. You'll quickly see that it is actually very easy to make web applications that everyone can use. When you're finished reading this short cut, you will be able to convince anyone why developing unobtrusively is the best way to build a site with JavaScript and Ajax.

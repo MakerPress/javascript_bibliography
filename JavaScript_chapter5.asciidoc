@@ -4,10 +4,15 @@
 === Building iPhone Apps with HTML, CSS, and JavaScript
 
 _O'Reilly Media_
+
 _By Jonathan Stark_
+
 _ISBN: 9781449380236_
+
 _January 2010_
+
 _$29.99 US_
+
 _192 pages_
 
 It's a fact: if you know HTML, CSS, and JavaScript, you already have the tools you need to develop your own iPhone apps. With this book, you'll learn how to use these open source web technologies to design and build apps for both the iPhone and iPod Touch, on the platform of your choice -- without using Objective-C, Xcode, or Interface Builder. Device-agnostic apps are the wave of the future, especially for mobile devices, and this book shows you how to create one product that can be used on several platforms. You'll get guidelines for quickly converting your product into a native iPhone app, using the free PhoneGap framework. And you'll learn why releasing your product as a web app first helps you find, fix, and test bugs much faster than if you went straight to the App Store with a product built with Apple's tools.
@@ -17,10 +22,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781449380236?cid=1
 === Beginning iPhone and iPad Web Apps: Scripting with HTML5, CSS3, and JavaScript
 
 _Apress_
+
 _By Chris Apers & Daniel Paterson_
+
 _ISBN: 9781430230458_
+
 _November 2010_
+
 _$39.99 US_
+
 _508 pages_
 
 This book takes you through every aspect of the latest Mobile Web Standards as well as the specific features of the iPhone and iPad. You'll go beyond Web 2.0 and Ajax to learn about WebKit and Mobile Safari, HTML5 and CSS3, Vector Graphics and Multimedia support. You'll discover what built-in hardware features of the iPhone and iPad you can use and how to take advantage of these device-specific capabilities. The market for Web apps is expanding and the combination of iPhone and iPad makes this a very hot area—as well as a competitive one. You'll want to know about all the advantages available to get ahead and stay ahead, and this book is the perfect starting point.
@@ -30,10 +40,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781430230458?cid=1
 === Building Android Apps with HTML, CSS, and JavaScript
 
 _O'Reilly Media_
+
 _By Jonathan Stark_
+
 _ISBN: 9781449399122_
+
 _October 2010_
+
 _$29.99 US_
+
 _184 pages_
 
 If you know HTML, CSS, and JavaScript, you already have the tools you need to develop Android apps. With this book, you'll learn how to use these web technologies to design and build apps for any Android device, using the framework of your choice. No knowledge of Java is required.
@@ -43,10 +58,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781449399122?cid=1
 === Pro Android Web Apps: Develop for Android Using HTML5, CSS3 & JavaScript
 
 _Apress_
+
 _By Damon Oehlman & Sébastien Blanc_
+
 _ISBN: 9781430232766_
+
 _January 2011_
+
 _$44.99 US_
+
 _392 pages_
 
 Developing applications for Android and other mobile devices using web technologies is now well within reach. When the capabilities of HTML5 are combined with CSS3 and Javascript, web application developers have an opportunity to develop compelling mobile applications using familiar tools. This book teaches developers already familiar with web application development, how to code and structure a web app for use on the Android mobile platform. After reading this book, you will not only have a greater understanding of the world of web apps on Android, but also how to leverage additional tools and frameworks to increase the reach of your mobile web apps. Additionally, through the practical samples in the book you will have been given solid exposure of where both the opportunities and challenges lie when building mobile apps the web way.
@@ -56,10 +76,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781430232766?cid=1
 === Beginning Smartphone Web Development: Building JavaScript, CSS, HTML and Ajax-based Applications for iPhone, Android, Palm Pre, BlackBerry, Windows Mobile, and Nokia S60
 
 _Apress_
+
 _By Gail Frederick_
+
 _ISBN: 9781430226208_
+
 _January 2010_
+
 _$39.99 US_
+
 _368 pages_
 
 The mobile Web has become incredibly popular given the success of the iPhone and BlackBerry, the importance of Windows Mobile, and the emergence of Palm Pre (and its webOS platform). Gail Frederick of the well-known training site Learn the Mobile Web offers her expert advice in this book. She teaches the web standards and fundamentals specific to smartphones and other feature-driven mobile phones and devices. By the end of this book, you’ll have the training, tools, and techniques for creating robust mobile web experiences on any of these platforms for your favorite smartphone or other mobile device.
@@ -69,10 +94,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781430226208?cid=1
 === The Web Designer’s Guide to iOS Apps: Create iPhone, iPod touch, and iPad Apps with Web Standards (HTML5, CSS3, and JavaScript)
 
 _New Riders_
+
 _By Kristofer Layon_
+
 _ISBN: 9780132562829_
+
 _December 2010_
+
 _$39.99 US_
+
 _288 pages_
 
 This book teaches web designers how to use HTML, CSS, and JavaScript to build native iPhone, iPod Touch, and iPad applications.  By leveraging their existing skills, web designers can do the same specialized and content-specific work for new platforms. And by combining these skills with a code framework that allows them to bypass the need to learn a lot of Objective-C programming, web designers can focus exclusively on interface and content design. This results in better products for clients and their customers, and also saves the designer both time and money.
@@ -82,10 +112,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780132562829?cid=1
 === Programming the Mobile Web
 
 _O'Reilly Media_
+
 _By Maximiliano Firtman_
+
 _ISBN: 9780596807788_
+
 _October 2011_
+
 _$49.99 US_
+
 _512 pages_
 
 Today's market for mobile apps goes beyond the iPhone to include BlackBerry, Nokia, Windows Phone, and smartphones powered by Android, webOS, and other platforms. If you're an experienced web developer, this book shows you how to build a standard app core that you can extend to work with specific devices. You'll learn the particulars and pitfalls of building mobile apps with HTML, CSS, and other standard web tools. You'll also explore platform variations, finicky mobile browsers, Ajax design patterns for mobile, and much more. Before you know it, you'll be able to create mashups using Web 2.0 APIs in apps for the App Store, App World, OVI Store, Android Market, and other online retailers.
@@ -95,10 +130,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780596807788?cid=1
 === jQuery Mobile: Up and Running
 
 _O’Reilly Media_
+
 _By Maximiliano Firtman_
+
 _ISBN:  9781449397654_
+
 _October 2011_
+
 _$29.99 US_
+
 _250 pages_
 
 This introductory tutorial shows you how to use the jQuery Mobile library to build websites and apps for touch devices such as iPhone, iPad, Android, and BlackBerry. Learn the best way to apply this library's many interface components through a series of hands-on exercises. By the end of the book, you'll have built a complete working mobile application for multiple smartphone and tablet platforms using Web 2.0 APIs and semantic HTML5 code ready for app store distribution. You don’t need programming skills or previous experience with jQuery or HTML5 to get started. This book shows you exactly what you need to know.

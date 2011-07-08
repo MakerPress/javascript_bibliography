@@ -4,10 +4,15 @@
 === jQuery in Action, Second Edition
 
 _Manning Publications_
+
 _By Bear Bibeault & Yehuda Katz_
+
 _ISBN: 9781935182320_
+
 _June 2010_
+
 _$44.99 US_
+
 _475 pages_
 
 This book is a fast-paced introduction and guide. It shows you how to traverse HTML documents, handle events, perform animations, and add Ajax to your web pages. The book's unique "lab pages" anchor the explanation of each new concept in a practical example. You'll learn how jQuery interacts with other tools and frameworks and how to build jQuery plugins. This revised and expanded second edition includes even more lab pages than before, along with numerous examples that show the latest best practices developed by the jQuery community. It provides full coverage of jQuery 1.4, along with a deeper look at the ever-expanding world of jQuery plug-ins. This book requires some knowledge of JavaScript and Ajax but no previous experience with jQuery.
@@ -17,10 +22,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781935182320?cid=1
 === jQuery: Novice to Ninja
 
 _SitePoint_
+
 _By Earle Castledine & Craig Sharkie_
+
 _ISBN: 9780980576856_
+
 _February 2010_
+
 _$39.95 US_
+
 _300 pages_
 
 This book is a compilation of best-practice jQuery solutions to meet the most challenging JavaScript problems. In this question-and-answer book on jQuery, you'll find a cookbook of ready-to-go solutions to help breathe life into your web page.   Topics covered include: scrolling, resizing and animating Webpage elements and backgrounds, slideshows, and crossfaders. You will learn how to add interactivity with Ajax and how to use jQuery and write your own plug-ins. 
@@ -30,10 +40,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780980576856?cid=1
 === jQuery Cookbook
 
 _O'Reilly Media, Inc._
+
 _By: Cody Lindley
+
 _ISBN: 9780596806941_
+
 _November 2009_
+
 _$34.99_
+
 _480 pages_
 
 jQuery simplifies building rich, interactive web frontends. Getting started with this JavaScript library is easy, but it can take years to fully realize its breadth and depth; this cookbook shortens the learning curve considerably. With these recipes, you'll learn patterns and practices from 19 leading developers who use jQuery for everything from integrating simple components into websites and applications to developing complex, high-performance user interfaces. Ideal for newcomers and JavaScript veterans alike, This book  starts with the basics and then moves to practical use cases with tested solutions to common web development hurdles. You also get recipes on advanced topics, such as methods for applying jQuery to large projects.
@@ -43,9 +58,13 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780596806941?cid=1
 === jQuery 1.4 Reference Guide
 
 _Packt Publishing_
+
 _By Jonathan Chaffer & Karl Swedberg_
+
 _ISBN: 9781849510042_
+
 _$35.99 US_
+
 _336 pages_
 
 This book is a comprehensive exploration of the popular JavaScript library, jQuery. In this book you will be provided information about the latest features of jQuery that include Sizzle Selector, Native event delegation, Event triggering, DOM manipulation, and many more. You won't be confined to built-in functionality, you'll be able to examine jQuery's plug-in architecture and we discuss both how to use plug-ins and how to write your own. If you're already familiar with JavaScript programming, this book will help you dive right into advanced jQuery concepts. You'll be able to experiment on your own, trusting the pages of this book to provide information on the intricacies of the library, where and when you need it.
@@ -55,10 +74,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781849510042?cid=1
 === jQuery Pocket Reference
 
 _O'Reilly Media, Inc._
+
 _By David Flanagan_
+
 _ISBN: 9781449398958_
+
 _December 2010_
+
 _$12.99 US_
+
 _160 pages_
 
 If you've turned to the jQuery library to simplify common client-side JavaScript tasks, this pocket reference will help you quickly locate what you need from jQuery's vast array of functions and properties to complete your web project. This book provides a series of tutorials on various jQuery features, along with a quick reference to the entire library. It's an ideal book for beginners and experienced JavaScript developers alike.
@@ -68,10 +92,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781449398958?cid=1
 === jQuery 1.4 Plugin Development
 
 _Packt Publishing_
+
 _By Giulio Bai_
+
 _ISBN: 9781849512244_
+
 _October 2010_
+
 _$40.49 US_
+
 _288 pages_
 
 This book will help you to build powerful, interactive plugins to implement jQuery in the best way possible. With this exhaustive guide in hand, you can start building your own plugins in a matter of minutes! This book takes you beyond the basics of jQuery and enables you to take full advantage of jQuery's powerful plugin architecture to deliver highly interactive content to your website viewers. Different topics regarding plugin development are discussed, and you will learn how to develop many types of add-ons, ranging from media plugins (such as slideshows, video and audio controls, and so on) to various utilities (image pre-loading, handling cookies) and use and applications of jQuery effects and animations (sliding, fading, combined animations) to eventually demonstrate how all of these plugins can be merged and give birth to a new, more complex, and multipurpose script that comes in handy in a lot of situations.
@@ -81,10 +110,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781849512244?cid=1
 === Learning jQuery: Better Interaction Design and Web Development with Simple JavaScript Techniques
 
 _Packt Publishing_
+
 _By Jonathan Chaffer & Karl Swedberg_
+
 _ISBN: 9781847192509_
+
 _July 2007_
+
 _$35.99 US_
+
 _380 pages_
 
 jQuery is a powerful JavaScript library that can enhance your websites regardless of your background. In this book, creators of the popular jQuery learning resource, LearningjQuery.com, share their knowledge, experience, and enthusiasm about jQuery to help you get the most from the library and to make your web applications shine. This book begins with a tutorial to jQuery, followed by an examination of common, real-world client-side problems, and solutions for each of them making it an invaluable resource for answers to all your jQuery questions. This book is for web designers who want to create interactive elements for their designs, and for developers who want to create the best user interface for their web applications.
@@ -94,10 +128,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781847192509?cid=1
 === jQuery: Visual QuickStart Guide
 
 _Peachpit Press_
+
 _By Steve Holzner_
+
 _ISBN: 9780321679673_
+
 _June 2009_
+
 _$29.99 US_
+
 _240 pages_
 
 jQuery is a popular JavaScript library that simplifies event handling, animating, and Ajax interactions for rapid web development. Even casual web designers, who create web pages for fun, want to add the latest cool effects to their sites, and jQuery--the fast, flexible JavaScript library--is a tool of choice. Just as CSS separates "display" characteristics from the HTML structure, jQuery separates the "behavior" characteristics from the HTML structure. From visual effects, special controls, and Ajax made easy, this book will teach readers how to make the most of jQuery using the task-based, step-by-step, visual format they love. It's crammed with examples and there's a special section on widgets.
@@ -107,10 +146,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780321679673?cid=1
 === jQuery UI 1.7
 
 _Packt Publishing_
+
 _By Dan Wellman_
+
 _ISBN: 9781847199720_
+
 _November 2009_
+
 _$40.49 US_
+
 _392 pages_
 
 Specially revised for version 1.7 of jQuery UI, this book has been written to maximize your experience with the library by breaking down each component and walking you through examples that progressively build upon your knowledge, taking you from beginner to advanced usage in a series of easy-to-follow steps. In this book, you'll learn how each component can be initialized in a basic default implementation and then see how easy it is to customize its appearance and configure its behavior to tailor it to the requirements of your application. You'll look at the configuration options and the methods exposed by each component's API to see how these can be used to bring out the best of the library.
@@ -120,10 +164,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781847199720?cid=1
 === Beginning JavaScript and CSS Development with jQuery
 
 _Wrox_
+
 _By Richard York_
+
 _ISBN: 9780470227794_
+
 _May 2009_
+
 _$44.99 US_
+
 _555 pages_
 
 jQuery is a JavaScript library that helps web developers create JavaScript applications that work well in any browser. This book demonstrates how to use jQuery to reduce the amount of code you need to write and reduce the amount of testing that is required. You?ll see how separation of presentation (CSS), markup (XHTML), and script (JavaScript and Ajax) in web pages is a crucial direction in web development for creating maintainable, accessible, cost-effective web sites. The featured full-color code syntax highlighting provides you with a visual reinforcement so you can see the various pieces and parts that make up each line and section of code for each language.
@@ -133,10 +182,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780470227794?cid=1
 === Professional JavaScript Frameworks
 
 _Wrox_
+
 _By Leslie Michael Orchard, Ara Pehlivanian, Scott Koon & Harley Jones_
+
 _ISBN: 9780470384596_
+
 _August 2009_
+
 _$44.99 US_
+
 _887 pages_
 
 As the industry-standard, must-know scripting language, JavaScript is supported by all major browsers and is increasingly the foundation of new web development technologies such as Ajax and JSON. This book offers a selection of some of the most active and most used JavaScript frameworks available, replete with practical examples and explanations of what each framework does best. You'll look at common web development tasks and discover how each framework approaches that set of tasks, as well as learn how to use the features of each framework and avoid potential pitfalls.
@@ -146,10 +200,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780470384596?cid=1
 === Learning the Yahoo! User Interface Library: Get started and get to grips with the YUI JavaScript development library!
 
 _Packt Publishing_
+
 _By Dan Wellman_
+
 _ISBN: 9781847192325_
+
 _March 2008_
+
 _$40.49 US_
+
 _380 pages_
 
 The book is a tutorial, leading the reader first through the basics of the YUI library before moving on to more complex examples involving the YUI controls and utilities. The book is heavily example driven, and based around an approach of tinkering and extending to improve. This book covers all released components whether utility, control, core file, or CSS tool. Methods of the YAHOO Global Object are used and discussed throughout the book. The basics of each control will be presented, along with a detailed example showing its use to create complex, fully featured, cross-browser, Web 2.0 user interfaces. Besides giving you a deep understand of the YUI library, this book will expand your knowledge of object-oriented JavaScript programming, as well as strengthen your understanding of the DOM and CSS. You will learn to create a number of powerful JavaScript controls that can be used straight away in your own applications.
@@ -159,10 +218,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781847192325?cid=1
 === YUI 2.8 Learning the Library
 
 _Packt Publishing_
+
 _By Daniel Barreiro & Dan Wellman_
+
 _ISBN: 9781849510707_
+
 _June 2010_
+
 _404 pages_
+
 _$44.99 US_
 
 The book is a tutorial, leading the reader first through the basics of the YUI library before moving on to more complex examples involving the YUI controls and utilities. The book is heavily example driven, and based around an approach of tinkering and extending to improve. This book is for web developers comfortable with JavaScript and CSS, who want to use the YUI library to easily put together rich, responsive web interfaces. No knowledge of the YUI library is presumed.
@@ -170,10 +234,15 @@ The book is a tutorial, leading the reader first through the basics of the YUI l
 === Pro JavaScript with MooTools: Learning Advanced JavaScript Programming
 
 _Apress_
+
 _By Mark Joseph Obcena_
+
 _ISBN: 9781430230540_
+
 _January 2010_
+
 _$44.99 US_
+
 _426 pages_
 
 This book explores the advanced features of JavaScript and how the MooTools framework uses these features to further improve the language itself. The book takes a unique three-pronged approach. It first walks you through the advanced features of JavaScript and the MooTools framework, including native augmentation and type creation, a comprehensive discussion of JavaScript functions, Object-Oriented programming with native JavaScript and MooTools Classes, and the MooTools Class internals. You'll then learn all about Javascript in the DOM: the Elements classes and its internals, the MooTools Event system, Selector engines and MooTools Slick, Ajax and the Request Object, and Animation and the Fx classes. The final section really sets the book apart from all others, as it discusses JavaScript outside the browsers. You'll take an in-depth look at CommonJS and MooTools, using MooTools outside the browser to build ORM, creating simple CommonJS applications via the MooTools Deck framework, and creating complex Server-Side applications using Raccoon.
@@ -183,10 +252,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781430230540?cid=1
 === MooTools 1.2 Beginner's Guide
 
 _Packt Publishing_
+
 _By Jacob Gube_
+
 _ISBN: 9781847194589_
+
 _December 2009_
+
 _280 pages_
+
 _$35.99_
 
 MooTools is a simple-to-use JavaScript library, ideal for people with basic JavaScript skills who want to elevate their web applications to a superior level. If you're a newcomer to MooTools looking to build dynamic, rich, and user-interactive web site applications this beginner's guide with its easy-to-follow step-by-step instructions is all you need to rapidly get to grips with MooTools. Learn how to create dynamic, interactive, and responsive cross-browser web applications using this popular JavaScript framework. You will also learn how to make your web applications more dynamic and user-interactive with AJAX. This book will help you get to grips with MooTools so that you can start to create web pages and web applications worthy of the Web 2.0 world.
@@ -196,10 +270,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781847194589?cid=1
 === Dojo: The Definitive Guide
 
 _O'Reilly Media_
+
 _By Matthew A. Russell_
+
 _ISBN: 9780596516482_
+
 _June 2008_
+
 _496 pages_
+
 _$39.99 US_
 
 This book demonstrates how to tame Dojo's extensive library of utilities so that you can build rich and responsive web applications like never before. Dojo founder Alex Russell gives a foreword that explains the "why" of Dojo and of this book. This book gives you the most thorough overview of this toolkit available, showing you everything from how to create complex layouts and form controls closely resembling those found in the most advanced desktop applications with stock widgets, to advanced JavaScript idioms to AJAX and advanced communication transports. Dojo packs the standard JavaScript library you've always wanted, and this book helps you transform your ideas into working applications quickly by leveraging design concepts you already know.
@@ -209,10 +288,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780596516482?cid=1
 === Practical Dojo Projects
 
 _Apress_
+
 _By Frank Zammetti_
+
 _ISBN: 9781430210665_
+
 _September 2008_
+
 _$46.99 US_
+
 _480 pages_
 
 This book by Frank Zammetti examines one of today’s most popular open source lightweight Ajax Web Frameworks, Dojo. Written by a JavaScript/Ajax industry expert who has delivered many Web applications for his clients, Frank takes a no-nonsense, down to earth and hands-on approach to using Dojo, illustrating the types of practical applications/projects Dojo can create from the ground up. The reader can take the sample applications created in this book and use these as templates for their own real world applications in practice.
@@ -220,10 +304,15 @@ This book by Frank Zammetti examines one of today’s most popular open source l
 === Mastering Dojo: JavaScript and Ajax Tools for Great Web Experiences (Pragmatic Programmers)
 
 _Pragmatic Programmers_
+
 _By Craig Riecke, Rawld Gill & Alex Russell_
+
 _ISBN: 9781934356111_
+
 _July 2008_
+
 _$38.95 US_
+
 _555 pages_
 
 Dojo is a set of client-side JavaScript tools that help you build better web applications. Dojo blurs the line between local, native applications and browser based applications; the browser becomes the user interface platform. In this book you'll get the whole story, from basic usage to advanced idioms. It starts out with a fast moving tutorial that will give you techniques that you can start using right away. You'll learn all about Dojo Core--the foundation on which all things Dojo stand. You'll love using Dojo's HTML user interface control widget system, Dijit. See how to use over 40 widgets, including the rich yet easy-to-use tree and grid controls. You'll even get an in-depth look at how to design and build a single-page, rich Internet Application.
@@ -231,10 +320,15 @@ Dojo is a set of client-side JavaScript tools that help you build better web app
 === Dojo: Using the Dojo JavaScript Library to Build Ajax Applications
 
 _Prentice Hall_
+
 _By James E. Harmon_
+
 _ISBN: 9780321563132_
+
 _June 2008_
+
 _$44.99 US_
+
 _336 pages_
 
 Dojo offers Web developers and designers a powerful JavaScript toolkit for rapidly developing robust Ajax applications. Now, for the first time, there’s a complete, example-rich developer’s guide to Dojo and its growing library of prepackaged widgets. Reviewed and endorsed by the Dojo Foundation, the creators of Dojo, this book brings together all the hands-on guidance and tested code samples you need to succeed. Harmon introduces the Dojo toolkit’s powerful capabilities for simplifying Ajax development. He thoroughly explains Dojo’s helper functions, shortcuts, and special methods, illuminating each feature with examples of the JavaScript problems it can solve. All source code examples are provided on a companion Web site, including source code for a complete tutorial case study application.
@@ -244,10 +338,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780321563132?cid=1
 === Ext JS in Action
 
 _Manning Publications_
+
 _By Jesus Garcia_
+
 _ISBN: 9781935182115_
+
 _December 2010_
+
 _$49.99 US_
+
 _496 pages_
 
 Ext JS combines an extensive library of super-high-quality widgets, an intuitive, extensible component model, and an easy-to-use API to create a full, rock-solid platform for JavaScript-based web apps. This book teaches you about Ext from the ground up. By following the common design patterns demonstrated in the Ext source and in many commercial applications, you learn how to achieve the same results you see in world-class commercial JavaScript applications. The book fully covers Ext utility classes, AJAX, Observable (the Ext events model), DOM helpers and Function Helpers and illustrates how use of JavaScript Object Notation (JSON), a powerful and lightweight data format, can allow your application to efficiently communicate over the network to the web server. You'll build on this foundation to customize or extend Ext widgets.
@@ -257,10 +356,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781935182115?cid=1
 === Learning Ext JS 3.2
 
 _Packt Publishing_
+
 _By Shea Frederick; Colin Ramsay; Steve 'Cutter' Blades; Nigel White_
+
 _ISBN: 9781849511209_
+
 _October 2010_
+
 _$40.49 US_
+
 _432 pages_
 
 Ext JS is a JavaScript library that makes it (relatively) easy to create desktop-style user interfaces in a web application, including multiple windows, toolbars, drop-down menus, dialog boxes, and much more. Yet, most web developers fail to use this amazing library to its full power. This book covers all of the major features of the Ext framework using interactive code and clear explanation coupled with loads of screenshots. It will help you create rich, dynamic, and AJAX-enabled web applications that look good and perform beyond the expectations of your users. By using a series of straightforward examples backed by screenshots, this book will help you create web applications that look good and perform beyond the expectations of your users.
@@ -270,10 +374,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781849511209?cid=1
 === Essential GWT: Building for the Web with Google Web Toolkit 2
 
 _Addison-Wesley Professional_
+
 _By Federico Kereki_
+
 _ISBN: 9780321705143_
+
 _August 2010_
+
 _$39.99 US_
+
 _352 pages_
 
 This book shows how to use this latest version of GWT to create production solutions that combine superior style, performance, and interactivity with exceptional quality and maintainability. Federico Kereki quickly reviews the basics and then introduces intermediate and advanced GWT skills, covering issues ranging from organizing projects to compiling and deploying final code. Throughout, he focuses on best-practice methodologies and design patterns. For example, you’ll learn how to use the MVP (model-view-presenter) pattern to improve application design and support automated testing for agile development. Kereki illuminates each concept with realistic code examples that help developers jump-start their projects and get great results more quickly. Working with the latest versions of open source tools such as Eclipse, Subversion, Apache, Tomcat, and MySQL, he demonstrates exactly how GWT fits into real Web development environments. 
@@ -283,10 +392,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780321705143?cid=1
 === Ext GWT 2.0 : Beginner's Guide
 
 _Packt Publishing_
+
 _By Daniel Vaughan_
+
 _ISBN: 9781849511841_
+
 _December 2010_
+
 _$35.99 US_
+
 _320 pages_
 
 This book is a practical book that teaches you how to use the EXT GWT library to its full potential. It provides a thorough and no-nonsense explanation of the Ext GWT library, what it offers and how to use it through practical examples. This book gets you up and running instantly to build powerful Rich Internet Applications (RIA) with Ext GWT. It then takes you through all the interface-building widgets and components of Ext GWT using practical examples to demonstrate when, where, and how to use each of them. You will also learn to present your data in a better way with templates and use some of the most sought-after features of Ext GWT in your web applications such as drag-and-drop and charts. Throughout the book a real application is built step by step using Ext GWT and deployed to Google App Engine.
@@ -296,10 +410,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781849511841?cid=1
 === SAMS Teach Yourself jQuery in 24 Hours
 
 _SAMS_
+
 _By Steve Holzner_
+
 _ISBN: 9780672335563_
+
 _October 2011_
+
 _$34.99 US_
+
 _450 pages_
 
 In just 24 lessons of one hour or less, this book will help non-programmers leverage jQuery's power in tasks ranging from simple effects to complex forms. Each short, easy lesson builds on all that's come before, teaching jQuery's latest features and add-ons from the ground up, in the context of delivering real solutions. The book carefully explains how JavaScript libraries like jQuery work, and guides you through downloading, installing, and fully utilizing jQuery. By the time you are finished, you'll be comfortable going beyond the book to solve a wide variety of problems.
@@ -307,8 +426,11 @@ In just 24 lessons of one hour or less, this book will help non-programmers leve
 === Rich Internet Applications with Ajax and jQuery LiveLessons
 
 _Addison-Wesley_
+
 _By Marty Hall_
+
 _ISBN: 9780132594721_
+
 _April 2011_
 
 This course gives a practical, hands-on introduction to the fundamentals of Ajax development. It covers foundational topics like JavaScript programming, core Ajax approaches, XML and JSON data handling, and Ajax development and debugging tools such as Firebug. It also covers more advanced topics like automatic JSON generation, JSON-RPC. The course gives particular attention to the jQuery toolkit covering the use jQuery's Ajax support, and how to use the rich GUI elements provided by jQuery UI. The course emphasizes a practical, hands-on approach, and each section contains several annotated code examples. 
@@ -318,10 +440,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780132594721?cid=1
 === SAMS Teach Yourself jQuery Mobile in 10 minutes
 
 _SAMS_
+
 _By Steve Holzner_
+
 _ISBN: 9780672335570_
+
 _October 2011_
+
 _$24.99 US_
+
 _240 pages_
 
 This book gives a quick, practical overview of what jQuery Mobile is and how to use it in creating high quality mobile web pages that can be viewed on a wide variety of platforms. By working through the 10-minute lessons, you learn everything you need to know to quickly and easily get up to speed with jQuery Mobile.This book will provide programmers with fast at-a-glance tips pointing out helpful shortcuts and solutions, cautions to help avoid common jQuery Mobile pitfalls, and is written in a clear, easy-to-understand format. 
@@ -329,17 +456,24 @@ This book gives a quick, practical overview of what jQuery Mobile is and how to 
 === Practical Prototype and script.aculo.us (Expert's Voice in Web Development) 
 
 _Apress_
+
 _By Andrew Dupont_
+
 _ISBN: 9781590599198_
+
 _June 2008_
+
 
 === Applied jQuery: Develop and Design
 
 _Peachpit Press_
-_By _
+
 _ISBN: 9780132767323_
+
 _August 2011_
+
 _$39.99 US_
+
 _350 pages_
 
 Prototype and its sister effects library, script.aculo.us, are two of the most popular JavaScript libraries/frameworks available – they are add-ons to JavaScript, which give JavaScript developers prebuilt functionality to play with, and speed up development time. And now Apress has collaborated with Andrew Dupont, one of the Prototype core development team members, to create Practical Prototype and script.aculo.us. This book is an essential guide for any JavaScript developer wanting to learn every major facet of Prototype/script.aculo.us quickly and effectively.
@@ -347,10 +481,15 @@ Prototype and its sister effects library, script.aculo.us, are two of the most p
 === Head First jQuery
 
 _O'Reilly Media_
+
 _By Ryan Benedetti, Ronan Cranley_
+
 _ISBN: 9781449393212_
+
 _September 2011_
+
 _$39.99 US_
+
 _450 pages_
 
 Want to add more interactivity and polish to your websites? Discover how jQuery can help you build complex scripting functionality in just a few lines of code. With this book, you'll quickly get up to speed on this amazing JavaScript library by learning how to navigate HTML documents while handling events, effects, callbacks, and animations. By the time you've completed the book, you'll be incorporating Ajax apps, working seamlessly with HTML and CSS, and building your own plug-ins. If you want to learn—and understand—how to create interactive web pages, unobtrusive script, and cool animations that don't kill your browser, this book is for you.
@@ -358,10 +497,15 @@ Want to add more interactivity and polish to your websites? Discover how jQuery 
 === JavaScript and jQuery: The Missing Manual
 
 _O'Reilly Media_
+
 _By David Sawyer McFarland_
+
 _ISBN: 9781449399023_
+
 _October 2011_
+
 _$39.99 US_
+
 _600 pages_
 
 You don't need programming experience to add interactive and visual effects to your web pages with JavaScript. This Missing Manual shows you how the jQuery library makes JavaScript programming fun, easy, and accessible to web designers at every level of experience. You'll quickly learn how to use jQuery to help your site run smoothly and look great across multiple web browsers. In this entertaining, jargon-free book, bestselling author David McFarland teaches you how to create dynamic web pages without typing a lot of code. 

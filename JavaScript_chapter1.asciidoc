@@ -3,10 +3,15 @@
 === Eloquent JavaScript
 
 _No Starch Press_
+
 _By Marijn Haverbeke_
+
 _ISBN: 9781593272821_
+
 _January 2011_
+
 _$29.95 US_
+
 _224 pages_
 
 This book is a guide to JavaScript that focuses on good programming techniques rather than offering a mish-mash of cut-and-paste effects. The author teaches you how to leverage JavaScript's grace and precision to write real browser-based applications. The book begins with the fundamentals of programming—variables, control structures, functions, and data structures—then moves on to more complex topics, like object-oriented programming, regular expressions, and browser events. With clear examples and a focus on elegance, this book will have you fluent in the language of the web in no time.
@@ -16,10 +21,15 @@ _http://my.safaribooksonline.com/book/-/9781593272821[Read it on Safari Online B
 === JavaScript Cookbook
 
 _O'Reilly Media, Inc._
+
 _By Shelley Powers_
+
 _ISBN: 9781449390211_
+
 _July 2010_
+
 _$49.99 US_
+
 _560 pages_
 
 Covering both ECMAScript 5 and HTML5, this book helps you take advantage of the latest web features, including HTML5's persistent storage mechanisms and drawing canvas. You'll find solutions for integrating these features with JavaScript into UIs that people will enjoy using. The recipes in this book not only help you get things done, they'll also help you develop applications that work reliably in every browser.
@@ -29,10 +39,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781449390211?cid=1
 === Learning JavaScript, Second Edition
 
 _O'Reilly Media, Inc._
+
 _By Shelley Powers_
+
 _ISBN: 9780596155636_
+
 _December 2008_
+
 _$34.99 US_
+
 _400 pages_
 
 If you're new to JavaScript, or an experienced web developer looking to improve your skills, this book provides you with complete, no-nonsense coverage of this quirky yet essential language for web development. You'll learn everything from primitive data types to complex features, including JavaScript elements involved with Ajax and dynamic page effects. By the end of the book, you'll be able to work with even the most sophisticated libraries and web applications. Complete with best practices and examples of JavaScript use, this new edition shows you how to integrate the language with the browser environment, and how to practice proper coding techniques for standards-compliant websites. This book follows proven learning principles to help you absorb the concepts at an easy pace, so you'll learn how to create powerful and responsive applications in any browser.
@@ -42,10 +57,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780596155636?cid=1
 === JavaScript Bible, Seventh Edition
 
 _John Wiley & Sons_
+
 _By Danny Goodman, Michael Morrison, Paul Novitski & Tia Gustaff Rayl_
+
 _ISBN: 9780470526910_
+
 _October 2010_
+
 _$49.99 US_
+
 _2,042 pages_
 
 As the most comprehensive book on the market, this book is a classic bestseller that keeps you up to date on the latest changes in JavaScript, the leading technology for incorporating interactivity into Web pages. Part tutorial, part reference, this book serves as both a learning tool for building new JavaScript skills as well as a detailed reference for the more experienced JavaScript user. You'll get up-to-date coverage on the latest JavaScript practices that have been implemented since the previous edition, as well as the most updated code listings that reflect new concepts. Plus, you'll learn how to apply the latest JavaScript exception handling and custom object techniques.
@@ -55,10 +75,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780470526910?cid=1
 === Head First JavaScript
 
 _O'Reilly Media, Inc._
+
 _By Michael Morrison_
+
 _ISBN: 9780596527747_
+
 _December 2007_
+
 _$39.99 US_
+
 _656 pages_
 
 So you're ready to make the leap from writing HTML and CSS web pages to creating dynamic web applications. You want to take your web skills to the next level. And you're finally ready to add "programmer" to the resume. It sounds like you're ready to learn the Web's hottest programming language: JavaScript. This book is your ticket to going beyond copying and pasting the code from someone else's web site, and writing your own interactive web pages. It starts where HTML and CSS leave off, and takes you through your first program into more complex programming concepts -- like working directly with the web browser's object model and writing code that works on all modern browsers. You'll learn JavaScript, understand it, and have a blast along the way. So get ready... dynamic and exciting web pages are just pages away.
@@ -68,10 +93,16 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780596527747?cid=1
 === JavaScript for Absolute Beginners
 
 _Apress_
+
+
 _By Terry McNavage_
+
 _ISBN: 9781430272199_
+
 _December 2010_
+
 _$29.99_
+
 _501 pages_
 
 This book takes a practical approach by showing you how to use JavaScript in simple stages, starting with the basics of storing and manipulating data and moving on to reacting to events and using JavaScript to alter CSS and HTML on the fly. It assumes no prior knowledge of JavaScript, and avoids bombarding you with unnecessary technical details. At the same time, it explains the main points and acts as a reference that you can come back to when you need to refresh your memory. More advanced concepts are introduced gradually, so that by the end of the book you'll have a solid understanding of all the main aspects of JavaScript. Particular attention is paid to debugging and avoiding common beginners' pitfalls, enabling you to create web sites that not only look good, but are dynamic and exciting for visitors.
@@ -81,10 +112,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781430272199?cid=1
 === JavaScript® Programmer's Reference
 
 _Wrox_
+
 _By Alexei White_
+
 _ISBN: 9780470344729_
+
 _August 2009_
+
 _$44.99_
+
 _1030 pages_
 
 Learn everything about using the JavaScript language with the next generation of Rich Internet Applications from the accessible information in this book, which is both a tutorial and a reference guide for web developers. You will master methods for using JavaScript with applications like Microsoft's Silverlight, Ajax, Flex, Flash and AIR by practicing with hands-on examples with practical, usable code. Employ this complete JavaScript reference to help you understand JavaScript Data Types, Variables, Operators, Expressions and Statements, work with JavaScript Frameworks and data, and improve performance with Ajax.
@@ -94,10 +130,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780470344729?cid=1
 === JavaScript Step by Step, Second Edition
 
 _Microsoft Press_
+
 _By Steve Suehring_
+
 _ISBN: 9780735656550_
+
 _December 2010_
+
 _$39.99 US_
+
 _504 pages_
 
 Use this book to teach yourself how to program with JavaScript -- one step at time. Ideal for developers with fundamental programming skills, this practical tutorial provides the clear guidance and hands-on examples you need to create or customize interactive Web applications using core JavaScript features and techniques.
@@ -107,10 +148,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780735656550?cid=1
 === JavaScript by Example, Second Edition
 
 _Prentice Hall_
+
 _By Ellie Quigley_
+
 _ISBN: 9780137084746_
+
 _October 2010_
+
 _$39.99 US_
+
 _912 pages_
 
 This book is the easiest, most hands-on way to learn JavaScript. Legendary programming instructor Ellie Quigley has thoroughly updated her classic book to deliver the skills and information today’s JavaScript users need most–including up-to-the-minute coverage of JavaScript programming constructs, CSS, Ajax, JSON, and the latest JavaScript libraries and best practices. Quigley illuminates every technique with focused, classroom-tested code examples, detailed line-by-line explanations, and real program output. This exceptionally clear, easy-to-understand book takes you from your first script to advanced techniques. It’s the only JavaScript book you’ll ever need!
@@ -120,10 +166,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780137084746?cid=1
 === JavaScript: The Missing Manual
 
 _O'Reilly Media_
+
 _By David Sawyer McFarland_
+
 _ISBN: 9780596515898_
+
 _July 2008_
+
 _$39.99 US_
+
 _544 pages_
 
 JavaScript is essential for creating modern, interactive Web sites. But, unlike HTML and CSS, JavaScript is a true programming language with complex rules that are challenging for most Web designers to learn. In this book bestselling author David McFarland teaches you how to use JavaScript in sophisticated ways -- even if you have little or no programming experience. In a clear, entertaining way, the book starts out by teaching you how to build a basic JavaScript program. Then, once you've mastered the structure and terminology, you'll learn how to use advanced JavaScript tools to add useful interactivity to your sites quickly and painlessly, rather than scripting everything from scratch. If you want to put JavaScript to work right away without getting tangled up in code this is the best book available.
@@ -133,10 +184,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780596515898?cid=1
 === Beginning JavaScript, Fourth Edition
 
 _Wrox_
+
 _By Paul Wilton & Jeremy McPeak_
+
 _ISBN: 9780470525937_
+
 _October 2009_
+
 _$39.99 US_
+
 _788 pages_
 
 JavaScript is the definitive language for making the Web a dynamic, rich, interactive medium. This guide to JavaScript builds on the success of previous editions and introduces you to many new advances in JavaScript development. The reorganization of the chapters helps streamline your learning process while new examples provide you with updated JavaScript programming techniques. You'll get all-new coverage of Ajax for remote scripting, JavaScript frameworks, JavaScript and XML, and the latest features in modern Web browsers. Plus, all the featured code has been updated to ensure compliance with the most recent popular Web browsers. Continuing in the tradition of the first three editions, this book gets you up to speed on all the new advances in JavaScript development.
@@ -146,10 +202,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780470525937?cid=1
 === JavaScript 24-Hour Trainer
 
 _Wrox_
+
 _By Jeremy McPeak_
+
 _ISBN: 9780470647837_
+
 _December 2010_
+
 _$39.99 US_
+
 _456 pages_
 
 JavaScript has matured from making Web pages dynamic to making them interactive, providing users with a rich and memorable Web experience. This unique book-and-DVD package prepares you for the new generation of Web browser changes that are occurring on the ever-evolving Web and shows you how JavaScript is an essential component of those changes. Veteran author Jeremy McPeak provides you with helpful lessons in the text, and the DVD offers instructional demonstrations so you can see how JavaScript works in the real world. With the book-and-DVD package of this book you'll benefit from a total learning experience!!
@@ -159,10 +220,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780470647837?cid=1
 === Simply JavaScript
 
 _SitePoint_
+
 _By Kevin Yank & Cameron Adams_
+
 _ISBN: 9780980285802_
+
 _June 2007_
+
 _$39.95 US_
+
 _424 pages_
 
 Packed with full-color examples, this book is a step-by-step introduction to programming in JavaScript the right way. Learn how easy it is to use JavaScript to solve real-world problems, build smarter forms, track user events (such as mouse clicks and key strokes), and design eye-catching animations. Then move into more powerful techniques using the DOM and Ajax. Unlike other JavaScript books, modern best practices such as progressive enhancement, accessibility and unobtrusive scripting are used from the very beginning. All of the code in the book is also cross-browser compatible and downloadable for free, so you can get started instantly!
@@ -172,10 +238,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780980285802?cid=1
 === JavaScript: Visual QuickStart Guide, Eighth Edition
 
 _Peachpit Press_
+
 _By Dori Smith & Tom Negrino_
+
 _ISBN: 9780132735483_
+
 _July 2011_
+
 _$34.99 US_
+
 _544 pages_
 
 This task-based, visual-reference guide has been fully revised and uses step-by-step instructions and plenty of screenshots to give beginning and intermediate scripters what they need to know to keep their skills up-to-date. Readers can start from the beginning to get a tour of the programming language, or look up specific tasks to learn just what they need to know. In this updated eighth edition, readers will find new information on using frameworks and libraries--such as jQuery--and modern coding techniques. This is the Rough Cut version of the printed book.
@@ -185,10 +256,16 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780132735483?cid=1
 === The JavaScript PocketGuide
 
 _Peachpit Press_
+
 _By Lenny Burdette_
+
 _ISBN: 9780321712844_
+
 _April 2010_
+
+
 _$14.99_
+
 _312 pages_
 
 JavaScript is an object-oriented scripting language that enables you to modify a document's structure, styling, and content in response to user actions. This handy pocket serves as both a quick introduction to the language and acts a valuable reference. It's packed with tips as well as JavaScript syntax, methods, and properties. Concise and inexpensive, it's exactly the guide many web designers and developers need.
@@ -198,10 +275,15 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780321712844?cid=1
 === Sams Teach Yourself JavaScript in 24 Hours
 
 _Sams_
+
 _By Michael Moncur_
+
 _ISBN: 9780672328794_
+
 _June 2006_
+
 _$34.99 US_
+
 _456 pages_
 
 JavaScript is one of the easiest, most straightforward ways to enhance a website with interactivity. This book serves as an easy-to-understand tutorial on both scripting basics and JavaScript itself. The book is written in a clear and personable style with an extensive use of practical, complete examples. It also includes material on the latest developments in JavaScript and web scripting. You will learn how to use JavaScript to enhance web pages with interactive forms, objects, and cookies, as well as how to use JavaScript to work with games, animation, and multimedia.
@@ -211,10 +293,16 @@ _http://my.safaribooksonline.com/book/programming/javascript/9780672328794?cid=1
 === SAMS Teach Yourself HTML, CSS and JavaScript All in One
 
 _SAMS_
+
 _By Julie Meloni_
+
 _ISBN: 9780672333323_
+
+
 _October 2011_
+
 _$34.99 US_
+
 _656 pages_
 
 This is the all-in-one HTML, CSS and JavaScript beginner's guide, which covers the three most important languages for web development! It contains everything beginners need to know about the new HTML5 and CSS3 standards and today's JavaScript and Ajax libraries - all in one book. Written by the best-selling author Julie Meloni, it contains short, simple lessons that teach hands-on skills readers can apply immediately. Meloni covers all of the building blocks of practical web design and development, integrating new techniques and features into every chapter. Each lesson builds on what's come before, showing you exactly how to use HTML5, CSS3, and JavaScript together to create great web sites.
@@ -223,8 +311,11 @@ This is the all-in-one HTML, CSS and JavaScript beginner's guide, which covers t
 === Javascript Fundamentals I and II (Video Training)
 
 _Prentice Hall_
+
 _By Paul J. Deitel_
+
 _ISBN: 9780137045167_
+
 _June 2009_
 
 This video series is all you need to build world-class web applications. It begins with JavaScript basics, including control statements, functions, arrays, objects, events, CSS, DOM, and more. You’ll also master scripting with XML and RSS, and finish by learning to build the rich Ajax applications that are taking the Web by storm! Your instructor, Paul Deitel, delivers over 14 hours of world-class video training.  Paul teaches by analyzing complete working programs, not trivial code fragments. 
