@@ -16,7 +16,7 @@ _224 pages_
 
 This book is a guide to JavaScript that focuses on good programming techniques rather than offering a mish-mash of cut-and-paste effects. The author teaches you how to leverage JavaScript's grace and precision to write real browser-based applications. The book begins with the fundamentals of programming—variables, control structures, functions, and data structures—then moves on to more complex topics, like object-oriented programming, regular expressions, and browser events. With clear examples and a focus on elegance, this book will have you fluent in the language of the web in no time.
 
-_http://my.safaribooksonline.com/book/-/9781593272821[Read it on Safari Online Books]_
+_http://my.safaribooksonline.com/book/-/9781593272821[Read it on Safari Books Online]_
 
 === JavaScript Cookbook
 
@@ -34,7 +34,7 @@ _560 pages_
 
 Covering both ECMAScript 5 and HTML5, this book helps you take advantage of the latest web features, including HTML5's persistent storage mechanisms and drawing canvas. You'll find solutions for integrating these features with JavaScript into UIs that people will enjoy using. The recipes in this book not only help you get things done, they'll also help you develop applications that work reliably in every browser.
 
-_http://my.safaribooksonline.com/book/programming/javascript/9781449390211?cid=1107-bibilio-jscript-link[Read it on Safari Online Books]_
+_http://my.safaribooksonline.com/book/programming/javascript/9781449390211?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
 
 === Learning JavaScript, Second Edition
 
