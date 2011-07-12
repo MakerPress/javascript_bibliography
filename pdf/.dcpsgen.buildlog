@@ -1,11 +1,9 @@
 Using fo/series/animal6x9.xsl stylesheet... 
 Showing comments and <remark>s: false...
 Showing draft timestamps: false...
-Expanding book to /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/book.dcpsgen.xml.dcps.184.xml
-/work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/book.dcpsgen.xml:846: element sect1: validity error : ID _practical_prototype_and_script_aculo_us_expert_8217_s_voice_in_web_development already defined
-_practical_prototype_and_script_aculo_us_expert_8217_s_voice_in_web_development"
-                                                                               ^
-/work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/book.dcpsgen.xml:846: element sect1: validity error : ID _practical_prototype_and_script_aculo_us_expert_8217_s_voice_in_web_development already defined
-Document /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/book.dcpsgen.xml does not validate
+Expanding book to /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/book.dcpsgen.xml.dcps.716.xml
+/work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/book.dcpsgen.xml:971: parser error : Extra content at the end of the document
+asis>October 2011</emphasis></simpara>
+^
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
   ERROR: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/book.dcpsgen.xml did not pass entity resolution with xmllint. Is it well-formed?! Exiting...
