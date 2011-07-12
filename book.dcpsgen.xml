@@ -41,7 +41,11 @@
 <simpara><emphasis>$49.99 US</emphasis></simpara>
 <simpara><emphasis>560 pages</emphasis></simpara>
 <simpara>Covering both ECMAScript 5 and HTML5, this book helps you take advantage of the latest web features, including HTML5&#8217;s persistent storage mechanisms and drawing canvas. You&#8217;ll find solutions for integrating these features with JavaScript into UIs that people will enjoy using. The recipes in this book not only help you get things done, they&#8217;ll also help you develop applications that work reliably in every browser.</simpara>
+<<<<<<< HEAD
 <simpara><emphasis><ulink url="http://bit.ly/rrCm89">Read it on Safari Books Online</ulink></emphasis></simpara>
+=======
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/javascript/9781449390211?cid=1107-bibilio-jscript-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+>>>>>>> 875c0ac610377a99b0089f37a37f6d517dbba769
 </sect1>
 <sect1 id="_learning_javascript_second_edition">
 <title>Learning JavaScript, Second Edition</title>
