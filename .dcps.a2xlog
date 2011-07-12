@@ -14,11 +14,10 @@ asciidoc: book.asc: line 2: macro redefinition:
 asciidoc: book.asc: line 2: macro redefinition: #
 asciidoc: writing: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/book.dcpsgen.xml
 asciidoc: book.asc: line 2: evaluating: {include:/work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/book-docinfo.xml}
-asciidoc: book.asc: line 9: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_introduction.asciidoc
-asciidoc: book.asc: line 11: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter1.asciidoc
-asciidoc: book.asc: line 13: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter2.asciidoc
-asciidoc: book.asc: line 15: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter3.asciidoc
-asciidoc: book.asc: line 17: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter4.asciidoc
-asciidoc: book.asc: line 19: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter5.asciidoc
-Mon Jul 11 22:27:35 EDT 2011
-Mon Jul 11 22:27:41 EDT 2011
+asciidoc: book.asc: line 8: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_introduction.asciidoc
+asciidoc: book.asc: line 10: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter1.asciidoc
+asciidoc: book.asc: line 12: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter2.asciidoc
+asciidoc: book.asc: line 14: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter3.asciidoc
+asciidoc: book.asc: line 16: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter4.asciidoc
+asciidoc: book.asc: line 18: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311889current/JavaScript_chapter5.asciidoc
+Mon Jul 11 22:39:34 EDT 2011
