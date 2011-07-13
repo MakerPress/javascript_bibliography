@@ -3,10 +3,11 @@
 
 After the browser became a worldwide instrument to access the World Wide Web, there was a need for a language that could be interpreted by the web browser that could make pages interactive. This need was fulfilled by a new programming language written by Brendan Eich, called JavaScript. Later, officially named as ECMAScript, JavaScript is a powerful loosely typed and prototype-based dynamic scripting language. It's an object-oriented programming language as well as a functional language, since its functions are first-class objects. JavaScript was initially adopted solely to make pages interactive, but it became a popular programming language with the rise of DOM Scripting and AJAX. Dealing with the DOM (model representing a web page) and with AJAX is a challenge given all the different browsers implementations. To cope with this issue, developers started implementing JavaScript libraries and frameworks and the popularity of JavaScript increased incredibly. 
 
+****
+Safari Books Online provides full access to all of the resources in this bibliography. A subscription to our “cloud library” gives you unlimited use of more than 16,000 books and videos. For a free trial, go to http://safaribooksonline.com/oscon11.
+****
+
 Today, desktop and mobile web applications contain a fair amount of scripts, so writing good JavaScript code is vital for the success of a web application. JavaScript is also now used on the server as well as the client-side. 
 
 We have chosen a selection of the most useful books for JavaScript development in this bibliography. You can learn how to start programming with JavaScript and you can dig into most advanced topics such as performance, design patterns and best practices. You can find reference books on the most popular JavaScript libraries such as jQuery, YUI, Mootols, Dojo and ExtJS and how to enhance the user experience through DOM Scripting and AJAX. If you are writing mobile apps, you will want to read how to create applications with web technologies.
 
-****
-Safari Books Online provides full access to all of the resources in this bibliography. A subscription to our “cloud library” gives you unlimited use of more than 16,000 books and videos. For a free trial, go to http://safaribooksonline.com/oscon11.
-****
